@@ -1,0 +1,125 @@
+description: main menu
+
+menu:
+    - title: Galleries
+      sub: 
+        - title: Hall of fame
+          url: /pages/halloffame.html
+
+        - title: Oldest photos
+          url: /pages/oldest_b_and_w_1.php
+
+        - title: "50s & 60s"
+          url: /pages/50s60s_1.php
+
+        - title: Albums
+          url: /pages/album_1.php
+
+        - title: Teeth!
+          url: /pages/teeth.php
+
+        - title: "Colm & Margaret"
+          url: /pages/colmandmargaret_1.php
+
+        - title: "Colm's art photos"
+          url: /pages/culart.php
+
+        - title: The 5
+          url: /pages/the5_1.php
+
+        - title: Gower page
+          url: /pages/gower_1.php
+
+        - title: "Tim's gallery"
+          url: /pages/timgallery_1.php
+
+        - title: Cronin clan
+          url: /pages/cronins_1.php
+
+        - title: "Jem & Sally O'Carroll"
+          url: /pages/jem_sally_1.php
+
+        - title: Jem's gallery
+          url: /pages/jemgallery.php
+
+        - title: Brendan&acute;s page
+          url: /pages/brendan.php
+
+        - title: 2004 sundry
+          url: /pages/2004.php
+
+        - title: Paddy's 80th
+          url: /pages/paddy80.php
+
+        - title: Golden Wedding	
+          url: /pages/goldenwedding.php
+
+    - title: Hughie
+      sub: 
+        - title: Hughie's pics
+          url:  /pages/hughiespics_1.php
+
+        - title: Hols - fun
+          url:  /pages/hughie_sarah_1.php
+
+        - title: Picos
+          url:  /pages/picos_1.php
+
+        - title: September 02
+          url:  /pages/sep02_1.php
+
+    - title: Hols
+      sub:
+        - title: Easter 02
+          url: /pages/easter02.php
+
+        - title: Lyme Regis 02
+          url: /pages/lyme02.php
+
+        - title: Merseyside Pilgrimage 06
+          url: pages/merseyside_pilgrimage06.php
+
+    - title: Tree
+      sub:
+        - title: Genealogy
+          url: http://carrollonline.tribalpages.com/
+
+        - title: Certificates
+          url: pages/certificates.htm
+
+    - title: Files
+      sub:
+        - title: Mystery Man
+          sub: files/myfather.htm
+
+        - title: Cully's corner
+          sub: files/cullyscorner.htm
+
+        - title: The 'erm' out-takes
+          sub: files/erm.htm
+
+        - title: Kevin's obituary
+          sub: files/kevinobit.htm
+        
+        - title: Birthdays
+          sub: files/birthdays.php
+
+        - title: Funnies
+          sub: pages/funnies.htm
+
+    - title: Links
+      sub:
+        - title: Hughie's home page
+          url: https://www.carrollonline.uk
+
+        - title: Stickleback Plasticus
+          url: http://www.plasticus.freeserve.co.uk
+        
+        - title: Swindon Chan Group
+          url: http://www.swindonchan.org
+
+        - title: Reedville Grove Map
+          url: https://goo.gl/maps/a76MVZUYSkK2hwNd8 
+
+        - title: Cheney Manor Map
+          url: https://goo.gl/maps/FZVWkeb7c4NdRrjV8 
