@@ -1,0 +1,72 @@
+dir: "/pages/album/"
+
+images:
+    -
+      img: "leo.jpg"
+      page: "album_4"
+      description: "Taken on the Malverns on Leo and Joan's last visit to us. "
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "m&d_h&s_98.jpg"
+      page: "album_4"
+      description: "In front of 'The Stained Glass Window' in the Forest of Dean. There are some very interesting sculptures in various situations around the forest. "
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "johnkirwan_colm_malverns.jpg"
+      page: "album_4"
+      description: "With Fr. John Kirwan on the Malverns, before C. had his knee op."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "josh.jpg"
+      page: "album_4"
+      description: "Josh playing on the carpet in Ross."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "josh_rosy_wet.jpg"
+      page: "album_4"
+      description: "Rosie and Josh soaking wet. "
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "k.jpg"
+      page: "album_4"
+      description: "Kevin."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "kehoe_grave1.jpg"
+      page: "album_4"
+      description: "Entrance to cemetery where Kehoe grandparents are buried."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "kehoe_grave2.jpg"
+      page: "album_4"
+      description: "Kehoe grave."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "kirsten_jo_alex_cattermole2000.jpg"
+      page: "album_4"
+      description: "Cattermole girls."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "m&d_trac_jem&sal_damo&phil_2000.jpg"
+      page: "album_4"
+      description: "Jem and Sal, Trac, and Damian and Phil visit Ross."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "margtracbalarfing.jpg"
+      page: "album_4"
+      description: "On holiday by the sea."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "kehoe_grave3.jpg"
+      page: "album_4"

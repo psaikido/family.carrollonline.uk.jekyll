@@ -1,0 +1,66 @@
+dir: "/pages/album/"
+
+images:
+    -
+      img: "cheneymanorroad.jpg"
+      page: "album_2"
+      description: "The front of the house in Cheney Manor Road (163). Grandma Carroll had a bed-sit in the front room. We were once invaded by errant cows that wandered into our garden. Grandma looked out of her window in the early morning and saw the steaming cattle. She called us and all we said was 'Go back to sleep Grandma. You are dreaming!' We phoned the police and so it seemed had everyone else in the road. They were eventually rounded up by a very weary and sweaty policeman."
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "christine.jpg"
+      page: "album_2"
+      description: "Margaret with cousin Christine, daughter of Uncle Jack."
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "crich_gang.jpg"
+      page: "album_2"
+      description: "Cousins and co. camping at Crich. Some great times have been had at our annual family camps."
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "cronincousins83.jpg"
+      page: "album_2"
+      description: "Visiting Christine with Sheila and Mike and Anthony Jack, Flo's son, and some of his family. The little red-head is Charlotte' Christine's daughter. ('83)"
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "colm_eden.jpg"
+      page: "album_2"
+      description: "Cully with Eden on family holiday in Wales to celebrate C's 70th birthday."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "damian_rosy.jpg"
+      page: "album_2"
+      description: "Damian with Rosie."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "damian_rosy1.jpg"
+      page: "album_2"
+      description: "Damian with an older Rosie."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "eden.jpg"
+      page: "album_2"
+      description: "Eden."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "eden_shed_00.jpg"
+      page: "album_2"
+      description: "Eden, the dead spit of his dad."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "damorosiebeer.jpg"
+      page: "album_2"
+    -
+      img: "damorosieonshoulders.jpg"
+      page: "album_2"
+    -
+      img: "edensuebirthdaycake.jpg"
+      page: "album_2"

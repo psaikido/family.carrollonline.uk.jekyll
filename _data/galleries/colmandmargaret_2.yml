@@ -1,0 +1,82 @@
+dir: "/pages/colmandmargaret/"
+
+images:
+    -
+      img: "culandmargwedding.jpg"
+      page: "colmandmargaret_2"
+      description: "We were married in St. Cuthbert's church. It had the unusual arrangement of being over the school. You had to climb stone stairs to get to the church. We are posing here at the bottom of the stairs. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "m_c_weddingparty.jpg"
+      page: "colmandmargaret_2"
+      description: "The gathered clans of Carrolls, Burkes and Walshes at the wedding of Colm and Margaret. In the background can be seen the school building where I attended and Grandma Burkie taught. By a macabre coincidence we must be standing almost on the spot where my mother's father fell to his death while working on the building. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "mamandmontblanc.jpg"
+      page: "colmandmargaret_2"
+      description: "A sneaky photo. Mont Blanc is in the background. There was cloud over the Alps almost all the time during that holiday. (Sallanche '85)"
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "margaret_beefeater.jpg"
+      page: "colmandmargaret_2"
+      description: "Colm, Margaret and Pat Woodward in costume for the Yeomen of the Guard. Colm and I started courting during rehearsals for the Yeomen. Colm was chief Yeoman and had to keep some very recalcitrant 'old' yeomen in order. They meekly took orders from him though he was only half their age. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "margaret_cully_kempley1997.jpg"
+      page: "colmandmargaret_2"
+      description: "Taken by Hugh outside a very old church which has the most wonderful display of daffodils in the spring. ('97)"
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "pithead.jpg"
+      page: "colmandmargaret_2"
+      description: "Colm worked here as a Bevin Boy during the war. We went back to see if there was anything left of the pit after it had closed. Everything was derelict but they had not removed the pit head winding gear. We took this picture for old time's sake <p>"
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "punks.jpg"
+      page: "colmandmargaret_2"
+      description: "At one of Brendan's fancy dress parties. Cully and I went as a pair of punks, coloured hair and all. The lads had the idea of ringing the police after we had left for the party and tell them that two punks had stolen their parents' car. Fortunately they thought better of it or we would have had some explaining to do."
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "margaret_glam.jpg"
+      page: "colmandmargaret_2"
+      who: "Margaret"
+      description: "Film star!"
+      user: "Hughie"
+      date: "2004-01-29"
+    -
+      img: "pithead.jpg"
+      page: "colmandmargaret_2"
+      description: "Shipley Colliery, near Heanor.  Colm was there between 1944 and 1947."
+      user: "Hughie"
+      date: "2007-09-26"
+    -
+      img: "cully.jpg"
+      page: "colmandmargaret_2"
+    -
+      img: "cully_conservatory.jpg"
+      page: "colmandmargaret_2"
+    -
+      img: "margaret_bride.jpg"
+      page: "colmandmargaret_2"
+    -
+      img: "margaret_skipping.jpg"
+      page: "colmandmargaret_2"
+    -
+      img: "youngcolm.jpg"
+      page: "colmandmargaret_2"
+    -
+      img: "snow_malverns.jpg"
+      page: "colmandmargaret_3"
+    -
+      img: "cul_beckets.jpg"
+      page: "colmandmargaret_3"
+    -
+      img: "colm_teddy.jpg"
+      page: "colmandmargaret_3"

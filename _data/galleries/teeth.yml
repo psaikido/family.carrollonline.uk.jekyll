@@ -1,0 +1,39 @@
+dir: "/pages/teeth/"
+
+images:
+    -
+      img: "ben.jpg"
+      page: "teeth"
+      who: ""
+      description: "monster boy"
+      user: "Hughie"
+      date: "2004-01-22"
+    -
+      img: "damoglasses.jpg"
+      page: "teeth"
+      who: "Damo"
+      description: "yagodamPREVERTS!"
+      user: "Hughie"
+      date: "2004-01-29"
+    -
+      img: "grandad.jpg"
+      page: "teeth"
+      who: "Vicar Merryweather"
+      description: "Vicar Merryweather made Matt yak up at dinner!"
+      user: "Hughie"
+      date: "2004-01-29"
+    -
+      img: "group.jpg"
+      page: "teeth"
+    -
+      img: "jem.jpg"
+      page: "teeth"
+    -
+      img: "matt.jpg"
+      page: "teeth"
+    -
+      img: "sarah.jpg"
+      page: "teeth"
+    -
+      img: "sarah_dad_ben.jpg"
+      page: "teeth"

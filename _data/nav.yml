@@ -6,78 +6,78 @@ menu:
         - title: Hall of fame
           url: /pages/halloffame.html
 
-        - title: Oldest photos
+        - title: Oldest black & whites
           url: /pages/oldest_b_and_w_1.html
 
         - title: "50s & 60s"
-          url: /pages/50s60s_1.php
+          url: /pages/50s60s_1.html
 
         - title: Albums
-          url: /pages/album_1.php
+          url: /pages/album_1.html
 
         - title: Teeth!
-          url: /pages/teeth.php
+          url: /pages/teeth.html
 
         - title: "Colm & Margaret"
-          url: /pages/colmandmargaret_1.php
+          url: /pages/colmandmargaret_1.html
 
         - title: "Colm's art photos"
-          url: /pages/culart.php
+          url: /pages/culart.html
 
         - title: The 5
-          url: /pages/the5_1.php
+          url: /pages/the5_1.html
 
         - title: Gower page
-          url: /pages/gower_1.php
+          url: /pages/gower_1.html
 
         - title: "Tim's gallery"
-          url: /pages/timgallery_1.php
+          url: /pages/timgallery_1.html
 
         - title: Cronin clan
-          url: /pages/cronins_1.php
+          url: /pages/cronins_1.html
 
         - title: "Jem & Sally O'Carroll"
-          url: /pages/jem_sally_1.php
+          url: /pages/jem_sally_1.html
 
         - title: Jem's gallery
-          url: /pages/jemgallery.php
+          url: /pages/jemgallery.html
 
         - title: Brendan&acute;s page
-          url: /pages/brendan.php
+          url: /pages/brendan.html
 
         - title: 2004 sundry
           url: /pages/year2004.html
 
         - title: Paddy's 80th
-          url: /pages/paddy80.php
+          url: /pages/paddy80.html
 
         - title: Golden Wedding	
-          url: /pages/goldenwedding.php
+          url: /pages/goldenwedding.html
 
     - title: Hughie
       sub: 
         - title: Hughie's pics
-          url:  /pages/hughiespics_1.php
+          url:  /pages/hughiespics_1.html
 
         - title: Hols - fun
-          url:  /pages/hughie_sarah_1.php
+          url:  /pages/hughie_sarah_1.html
 
         - title: Picos
-          url:  /pages/picos_1.php
+          url:  /pages/picos_1.html
 
         - title: September 02
-          url:  /pages/sep02_1.php
+          url:  /pages/sep02_1.html
 
     - title: Hols
       sub:
         - title: Easter 02
-          url: /pages/easter02.php
+          url: /pages/easter02.html
 
         - title: Lyme Regis 02
-          url: /pages/lyme02.php
+          url: /pages/lyme02.html
 
         - title: Merseyside Pilgrimage 06
-          url: pages/merseyside_pilgrimage06.php
+          url: pages/merseyside_pilgrimage06.html
 
     - title: Tree
       sub:
@@ -85,27 +85,27 @@ menu:
           url: http://carrollonline.tribalpages.com/
 
         - title: Certificates
-          url: pages/certificates.htm
+          url: pages/certificates.html
 
     - title: Files
       sub:
         - title: Mystery Man
-          sub: files/myfather.htm
+          sub: files/myfather.html
 
         - title: Cully's corner
-          sub: files/cullyscorner.htm
+          sub: files/cullyscorner.html
 
         - title: The 'erm' out-takes
-          sub: files/erm.htm
+          sub: files/erm.html
 
         - title: Kevin's obituary
-          sub: files/kevinobit.htm
+          sub: files/kevinobit.html
         
         - title: Birthdays
-          sub: files/birthdays.php
+          sub: files/birthdays.html
 
         - title: Funnies
-          sub: pages/funnies.htm
+          sub: pages/funnies.html
 
     - title: Links
       sub:
