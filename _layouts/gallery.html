@@ -1,0 +1,44 @@
+{% include top.html %}
+
+{% assign dir = site.data.galleries[page.data].dir %}
+
+<div class="gallery">
+    <h2>{{ page.title }}</h2>
+
+    {% for pic in site.data.galleries[page.data].images %}
+        <div class="record">
+            <div class="divLeft">
+                <a href="{{ dir }}/{{ pic.img }}">
+                    <img src="{{ dir }}thms/thm_{{ pic.img }}" />
+                </a>
+            </div>
+
+            <div class="divRight">
+                {% if pic.description %}
+                    {{ pic.description }}<br />
+                {% endif %}
+
+                <div class="picInfo">
+                    {% if pic.user %}
+                        text: {{ pic.user }}<br />
+                    {% endif %}
+
+                    {% if pic.date %}
+                        {{ pic.date | date: "%d/%m/%Y" }}<br />
+                    {% endif %}
+
+                    {% if pic.location %}
+                        Location: {{ pic.location }}<br />
+                    {% endif %}
+
+                    {% if pic.who %}
+                        Who: {{ pic.who }}<br />
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+
+</div>
+
+{% include tail.html %}

@@ -7,7 +7,7 @@ menu:
           url: /pages/halloffame.html
 
         - title: Oldest photos
-          url: /pages/oldest_b_and_w_1.php
+          url: /pages/oldest_b_and_w_1.html
 
         - title: "50s & 60s"
           url: /pages/50s60s_1.php
@@ -46,7 +46,7 @@ menu:
           url: /pages/brendan.php
 
         - title: 2004 sundry
-          url: /pages/2004.php
+          url: /pages/year2004.html
 
         - title: Paddy's 80th
           url: /pages/paddy80.php

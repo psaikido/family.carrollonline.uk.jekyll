@@ -1,0 +1,47 @@
+dir: "/pages/oldest_b_and_w/"
+
+images:
+    -
+      img: "2grandmas_ba.jpg"
+      thm: "thms/thm_2grandmas_ba.jpg"
+      alt: ""
+    -
+      img: "5_of_8.jpg"
+      thm: "thms/thm_5_of_8.jpg"
+      alt: ""
+    -
+      img: "april62_burton.jpg"
+      thm: "thms/thm_april62_burton.jpg"
+      alt: ""
+    -
+      img: "aug63_moel_jamean.jpg"
+      thm: "thms/thm_aug63_moel_jamean.jpg"
+      alt: ""
+    -
+      img: "burke_children_liam.jpg"
+      thm: "thms/thm_burke_children_liam.jpg"
+      alt: ""
+    -
+      img: "carrolls_grandmab.jpg"
+      thm: "thms/thm_carrolls_grandmab.jpg"
+      alt: ""
+    -
+      img: "carrolls_sofa.jpg"
+      thm: "thms/thm_carrolls_sofa.jpg"
+      alt: ""
+    -
+      img: "cul_parents.jpg"
+      thm: "thms/thm_cul_parents.jpg"
+      alt: ""
+    -
+      img: "dandy_etal_laughing.jpg"
+      thm: "thms/thm_dandy_etal_laughing.jpg"
+      alt: ""
+    -
+      img: "dandy_may.jpg"
+      thm: "thms/thm_dandy_may.jpg"
+      alt: "May and Dandy"
+    -
+      img: "dandy_sheildingeyes.jpg"
+      thm: "thms/thm_dandy_sheildingeyes.jpg"
+      alt: ""

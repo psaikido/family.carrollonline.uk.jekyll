@@ -3,7 +3,6 @@ body {
 }
 
 a, a:link, a:visited, a:hover, body {
-    /* background-color:#696969;*/
     font-size:1em;
     font-family:verdana, arial;
     font-weight:bold;
@@ -15,20 +14,16 @@ a:link {color:#eee;}
 a:visited {color:#ddd;}
 a:hover {color:#f55;}
 
-#gallery, .blocktext, #topbar, #bottombar {
-    margin:10px 100px 10px 100px;
-}
+.gallery {
+    margin:10px 100px 10px 200px;
 
-#gallery {
-    text-align:center;
-}
+    image {
+        margin:20px;  
+    }
 
-#gallery image {
-    margin:20px;  
-}
-
-#gallery a {
-    text-decoration:none;
+    a {
+        text-decoration:none;
+    }
 }
 
 .blocktext {
@@ -80,10 +75,10 @@ a:hover {color:#f55;}
     text-decoration:underline;
 }
 
-.location, .date, .year, .who, .takenby {
-    /* font:0.7em;
+.picInfo {
+    font-size:0.7em;
     font-style:italic;
-     */
+    margin-top: 20px;
 }
 
 #topbar, #bottombar {

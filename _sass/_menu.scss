@@ -1,5 +1,7 @@
 .navbar-nav {
     list-style-type: none;
+    float: left;
+    width: 100px;
 
     li.nav-item.parent {
         position: relative;
@@ -22,9 +24,13 @@
         list-style-type: none;
         display: none;
         position: absolute;
-        left: 110px;
+        left: 117px;
         top: 0;
         width: 250px;
+        background-color: #696969;
+        border-top: 1px solid #333;
+        border-right: 1px solid #333;
+        border-bottom: 1px solid #333;
 
         .nav-item {
             line-height: 30px;
