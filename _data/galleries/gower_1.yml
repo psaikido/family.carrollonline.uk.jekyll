@@ -1,0 +1,48 @@
+dir: "/pages/gower/"
+
+images:
+    -
+      img: "abistar.jpg"
+      page: "gower_1"
+      description: "why oh why did i ever dye my hair that colour!! teehee\r\n*Abs*\r\n"
+      user: "Abi"
+      date: "2004-02-01"
+    -
+      img: "abi_birthdayparty93.jpg"
+      page: "gower_1"
+      description: "what a fab day that was!! cheers hughie! my mate still talk about it! \r\n*Abs*\r\n"
+      user: "Abi"
+      date: "2004-02-01"
+    -
+      img: "abi_91.jpg"
+      page: "gower_1"
+    -
+      img: "abi_tree.jpg"
+      page: "gower_1"
+    -
+      img: "abiclimbing.jpg"
+      page: "gower_1"
+    -
+      img: "ben_abi_91.jpg"
+      page: "gower_1"
+    -
+      img: "ben_chris_field.jpg"
+      page: "gower_1"
+    -
+      img: "ben_rugby.jpg"
+      page: "gower_1"
+    -
+      img: "ben_tree.jpg"
+      page: "gower_1"
+    -
+      img: "benclimbing.jpg"
+      page: "gower_1"
+    -
+      img: "benflying.jpg"
+      page: "gower_1"
+    -
+      img: "chris_92.jpg"
+      page: "gower_1"
+    -
+      img: "chris_toy.jpg"
+      page: "gower_1"
