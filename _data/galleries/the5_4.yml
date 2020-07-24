@@ -1,0 +1,33 @@
+dir: "/pages/the5/"
+
+images:
+    -
+      img: "tim62.jpg"
+      page: "the5_4"
+    -
+      img: "tim_slide.jpg"
+      page: "the5_4"
+    -
+      img: "tim_64.jpg"
+      page: "the5_4"
+    -
+      img: "tim_woodenhorse.jpg"
+      page: "the5_4"
+    -
+      img: "tim_golf.jpg"
+      page: "the5_4"
+    -
+      img: "tim_lawn.jpg"
+      page: "the5_4"
+    -
+      img: "tim_tent.jpg"
+      page: "the5_4"
+      description: "Tim and Hugh, deep in his book, camping in Pembroke. All the boys did lots of climbing. They called one climb 'Wet Feet'."
+      user: "Margaret"
+      date: "2000-10-19"
+    -
+      img: "tim_aug75.jpg"
+      page: "the5_4"
+    -
+      img: "tim_midge.jpg"
+      page: "the5_4"

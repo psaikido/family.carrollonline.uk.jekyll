@@ -1,0 +1,48 @@
+dir: "/pages/the5/"
+
+images:
+    -
+      img: "damian_baptism.jpg"
+      page: "the5_2"
+      description: "Anthony and Shea were Damian's god-parents. The priest's hand belongs to Kevin who was home at the time.We had a great party afterwards. Shea offered to wash up before they went home and managed to drop a complete tea service. She was terribly upset and replaced the lot with a much better one. "
+      user: "Margaret"
+      date: "2000-11-07"
+    -
+      img: "damianasababyboy.jpg"
+      page: "the5_2"
+      description: "Damian's teeth were quite slow in growing and for a long time he had just one in the front. We used to call it his 'pickle stabber'."
+      user: "Margaret"
+      date: "2000-11-07"
+    -
+      img: "bendy_64.jpg"
+      page: "the5_2"
+      description: "When Hugh was born I came home from the hospital with a cowboy hat for each of the others. Damian, here very pleased with his. "
+      user: "Margaret"
+      date: "2000-11-07"
+    -
+      img: "damian_1stcommunion.jpg"
+      page: "the5_2"
+      description: "Damian looking important with his first communion certificate."
+      user: "Margaret"
+      date: "2000-11-07"
+    -
+      img: "damian_aug75.jpg"
+      page: "the5_2"
+      description: "The long haired phase. Damian would not wear anything that looked new. We bought him a great coat and he rolled it up under his mattress until it looked suitably scruffy. "
+      user: "Margaret"
+      date: "2000-11-07"
+    -
+      img: "damian_bike.jpg"
+      page: "the5_2"
+    -
+      img: "luckydamooftheantarctic.jpg"
+      page: "the5_2"
+    -
+      img: "damo_alien.jpg"
+      page: "the5_2"
+    -
+      img: "damian_minke.jpg"
+      page: "the5_2"
+      description: "In the Antarctic. A minke whale rising through a breathing hole. Damian just missed being eligible to join the exclusive 'Whale Patters Club'. The ice was too mushy to risk getting any nearer. "
+      user: "Margaret"
+      date: "2000-11-07"
