@@ -8,7 +8,7 @@
     {% for pic in site.data.galleries[page.data].images %}
         <div class="record">
             <div class="divLeft">
-                <a href="{{ dir }}/{{ pic.img }}">
+                <a href="{{ dir }}{{ pic.img }}">
                     <img src="{{ dir }}thms/thm_{{ pic.img }}" />
                 </a>
             </div>
