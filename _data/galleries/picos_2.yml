@@ -1,0 +1,36 @@
+dir: "/pages/picos/"
+
+images:
+    -
+      img: "rapel.jpg"
+      page: "picos_2"
+    -
+      img: "s_cow.jpg"
+      page: "picos_2"
+    -
+      img: "s_dog_pandebano.jpg"
+      page: "picos_2"
+    -
+      img: "s_juan_robre.jpg"
+      page: "picos_2"
+    -
+      img: "s_loslagos_cross.jpg"
+      page: "picos_2"
+    -
+      img: "s_torre_corteras_rojas.jpg"
+      page: "picos_2"
+    -
+      img: "south_east_naranjo.jpg"
+      page: "picos_2"
+    -
+      img: "sur_naranjo.jpg"
+      page: "picos_2"
+    -
+      img: "under_el_picu.jpg"
+      page: "picos_2"
+    -
+      img: "viasur.jpg"
+      page: "picos_2"
+    -
+      img: "westface_elpicu.jpg"
+      page: "picos_2"
