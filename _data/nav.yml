@@ -76,8 +76,8 @@ menu:
         - title: Lyme Regis 02
           url: /pages/lyme02.html
 
-        - title: Merseyside Pilgrimage 06
-          url: pages/merseyside_pilgrimage06.html
+        - title: Merseyside 06
+          url: /pages/merseyside06.html
 
     - title: Tree
       sub:
@@ -85,7 +85,7 @@ menu:
           url: http://carrollonline.tribalpages.com/
 
         - title: Certificates
-          url: pages/certificates.html
+          url: /pages/certificates.html
 
     - title: Files
       sub:
