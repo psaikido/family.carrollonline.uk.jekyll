@@ -4,7 +4,6 @@ layout: default
 ---
 
 
-<div class="gallery">
 My mother was an unusual woman. She was much younger than my father, very much in love with him but she would not have been easily deceived.  I am sure she knew the true story of my father's past but had the self-restraint to keep it to herself.  The trouble was that we three children did not know there was a mystery till long after my mother and father were dead.
 
 
@@ -60,4 +59,3 @@ When my mother was very ill and was staying with Leo, she said to him that she h
 
 
 M.M.Carroll - June 1995
-</div>
