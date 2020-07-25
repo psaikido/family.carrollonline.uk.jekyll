@@ -1,0 +1,47 @@
+dir: "/pages/sep02/"
+
+images:
+    -
+      img: "septem088.jpg"
+      page: "sep02_2"
+      who: "Sarah"
+      description: "A magical place."
+      user: "Hughie"
+      date: "2004-02-16"
+    -
+      img: "septem043.jpg"
+      page: "sep02_2"
+      who: ""
+      description: "Some days life is just a bit...weird!"
+      user: "Hughie"
+      date: "2004-02-16"
+    -
+      img: "septem085.jpg"
+      page: "sep02_2"
+      description: "Om mani padme hum"
+      user: "Hughie"
+      date: "2004-02-16"
+    -
+      img: "septem080.jpg"
+      page: "sep02_2"
+    -
+      img: "septem082.jpg"
+      page: "sep02_2"
+    -
+      img: "septem083.jpg"
+      page: "sep02_2"
+    -
+      img: "septem087.jpg"
+      page: "sep02_2"
+    -
+      img: "septem096.jpg"
+      page: "sep02_2"
+    -
+      img: "septem097.jpg"
+      page: "sep02_2"
+    -
+      img: "septem100.jpg"
+      page: "sep02_2"
+    -
+      img: "septem107.jpg"
+      page: "sep02_2"
