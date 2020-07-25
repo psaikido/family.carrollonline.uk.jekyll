@@ -1,0 +1,28 @@
+<head>
+<title>Birthdays</title>
+<style type="text/css">@import url(../css/main.css);</style>
+ 
+<script language="javascript" src="birthdays.js"></script>
+</head>
+
+<body class="blocktext">
+<center><a href="../index.php" title="home">home</a></center><p>
+
+<script language=javascript>
+document.write("<table cellpadding='10' cellspacing='50' align='center' border='0' bordercolor='dimgray'>");
+document.write("<tr><td colspan='2'><div id='divNext'></div></td></tr>")
+
+for(var i = 0; i < arrayAll.length; i++){	
+	fncWriteRow(arrayAll[i][0], arrayAll[i][1], arrayAll[i][2], arrayAll[i][3]);
+}
+
+document.write("</table>");
+if (nextBirthday == 0){
+	divNext.innerHTML="<marquee><font color='red' size='10'>Happy Birthday " + nameToRemember + "!  Many happy returns...</font></marquee>"
+}
+</script>
+
+<p>
+<center><a href="../index.php" title="home">home</a></center>
+<p>&nbsp;<p>
+</body>

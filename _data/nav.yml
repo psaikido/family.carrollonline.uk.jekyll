@@ -84,28 +84,25 @@ menu:
         - title: Genealogy
           url: http://carrollonline.tribalpages.com/
 
-        - title: Certificates
-          url: /pages/certificates.html
-
     - title: Files
       sub:
         - title: Mystery Man
-          sub: files/myfather.html
+          url: /files/myfather.html
 
         - title: Cully's corner
-          sub: files/cullyscorner.html
+          url: /files/cullyscorner.html
 
         - title: The 'erm' out-takes
-          sub: files/erm.html
+          url: /files/erm.html
 
         - title: Kevin's obituary
-          sub: files/kevinobit.html
+          url: /files/kevinobit.html
         
         - title: Birthdays
-          sub: files/birthdays.html
+          url: /files/birthdays.html
 
         - title: Funnies
-          sub: pages/funnies.html
+          url: /pages/funnies.html
 
     - title: Links
       sub:
