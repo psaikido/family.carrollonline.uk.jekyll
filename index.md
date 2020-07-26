@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Carroll Family Archive
 ---
 
-<div class="gallery">
-  <img src="pages/album/midge_ball.jpg" alt="" />
-  <br />
-  page:&nbsp;&nbsp;&nbsp; album_5
-  <br />
-  image:&nbsp;&nbsp;midge_ball.jpg<br />
-</div>
+<img src="pages/album/midge_ball.jpg" alt="" />  
+page: album_5  
+image: midge_ball.jpg
