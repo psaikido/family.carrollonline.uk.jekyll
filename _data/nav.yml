@@ -39,34 +39,20 @@ menu:
         - title: "Jem & Sally O'Carroll"
           url: /pages/jem_sally.html
 
-        - title: Jem's gallery
-          url: /pages/jemgallery.html
-
-        - title: Brendan&acute;s page
+        - title: "Brendan's page"
           url: /pages/brendan.html
 
         - title: 2004 sundry
           url: /pages/year2004.html
 
-        - title: Paddy's 80th
+        - title: "Paddy's 80th"
           url: /pages/paddy80.html
 
         - title: Golden Wedding	
           url: /pages/goldenwedding.html
 
-    - title: Hughie
-      sub: 
-        - title: Hughie's pics
+        - title: "Hughie's pics"
           url:  /pages/hughiespics_1.html
-
-        - title: "H & Sarah"
-          url:  /pages/hughie_sarah_1.html
-
-        - title: Picos
-          url:  /pages/picos_1.html
-
-        - title: September 02
-          url:  /pages/sep02_1.html
 
     - title: Hols
       sub:
@@ -78,11 +64,6 @@ menu:
 
         - title: Merseyside 06
           url: /pages/merseyside06.html
-
-    - title: Tree
-      sub:
-        - title: Genealogy
-          url: http://carrollonline.tribalpages.com/
 
     - title: Files
       sub:
@@ -103,6 +84,9 @@ menu:
 
     - title: Links
       sub:
+        - title: Genealogy
+          url: http://carrollonline.tribalpages.com/
+
         - title: Hughie's home page
           url: https://www.carrollonline.uk
 
