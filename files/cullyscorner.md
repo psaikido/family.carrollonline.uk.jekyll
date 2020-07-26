@@ -3,8 +3,20 @@ title: Cully's Corner
 layout: default
 ---
 
+## <span id="contents">Contents</span>
+[Aberdaron By The Sea](#a)  
+[Loch Lomond - 1975](#b)  
+[A Nice Little Place - Oct 1995](#c)  
+[Near St. Austell - Cornwall - Sept 1991](#d)  
+[The Tickle Tiger - 1993](#e)  
+[Bevin Boys (written for Chris)](#f)  
+[From the Gower - May 1989](#g)  
+[From the New Forest](#h)  
+[Harry Tuffin](#i)
 
-### ABERDARON BY THE SEA
+<hr />
+
+### <span id="a">Aberdaron By The Sea</span>
 We've come from Ross; t'was very far;  
 We've reached the Llyn Peninsular.  
 Our camp site's high above the beach,  
@@ -38,10 +50,11 @@ And fling me back upon the shore.
 Experience teaches , so they say,  
 But I'll be back another day. 
             
+
+[back to top](#contents)
             
             
-            
-### LOCH LOMOND 1975
+### <span id="b">Loch Lomond - 1975</span>
 "Oh boatman row me o'er the loch";  
 "I will, I will, when I find me sock". 
 "Oh boatman! boatman, hurry do!"   
@@ -52,7 +65,11 @@ But I'll be back another day.
 I'll row the ruddy boat myself" 
             
 
-### A NICE LITTLE PLACE - Oct.1995
+[back to top](#contents)
+
+
+
+### <span id="c">A Nice Little Place - Oct.1995</span>
 
 We've rented a cottage beside the sea;  
 The stay is enriching our lives,  
@@ -77,7 +94,11 @@ Glorious place - St. Ives.
 Heaven on earth - St. Ives.   
 
 
-### NEAR ST. AUSTELL - CORNWALL - Sept.1991
+[back to top](#contents)
+
+
+### <span id="d">Near St. Austell - Cornwall - Sept 1991</span>
+
 Far from the crowds we went one day,  
 Over the hills and far away;  
 To Boscastle, Tintagel too;  
@@ -97,7 +118,10 @@ When camping 'neath
 The twinkling stars.   
 
 
-### The Tickle Tiger - 1993
+[back to top](#contents)
+
+            
+### <span id="e">The Tickle Tiger - 1993</span>
 I am the Tickle Tiger   
 And I tickle girls and boys;  
 I tickle on the tummy  
@@ -114,7 +138,10 @@ And I'll tickle! tickle! tickle!
 Till they fall right off the chair.
 
 
-### BEVIN BOYS (written for Chris)   
+[back to top](#contents)
+
+
+### <span id="f">Bevin Boys (written for Chris)</span>   
 [<img src="../pages/colmandmargaret/thms/thm_pithead.jpg" width="101" height="113" border="0" alt="Colm revisiting the pithead">](/pages/colmandmargaret/pithead.jpg)  
 I was due to go into the army but so many miners had been called up 
 for the army and the country needed so much coal that I was sent to
@@ -195,7 +222,10 @@ shut down and all that was left was the pit head and the big wheel that
 ran the cages and the ventilation. 
 
 
-### From the Gower - May 1989
+[back to top](#contents)
+
+
+### <span id="g">From the Gower - May 1989</span>
 
 O, bend your ears   
 Good Gentles all   
@@ -208,7 +238,10 @@ When feet begin to feel the pinch'
 To you our thoughts we send.
 
 
-### From the New Forest.
+[back to top](#contents)
+
+
+### <span id="h">From the New Forest</span>
 To Lulworth Cove from Savernake   
 And thence to Durdle Door,   
 We've wandered with our haversack   
@@ -219,7 +252,10 @@ They're soaking up the golden rays:
 "Recharging batteries" 
 
 
-### Harry Tuffin
+[back to top](#contents)
+
+
+### <span id="i">Harry Tuffin</span>
 (A cheap supermarket near a family camp)  
 My dear old mother said to me'  
 "I'd really like some muffins"   
@@ -287,3 +323,6 @@ So raise your glass and tho'
 The words you say your fluffing.   
 Though he's been dead for forty years   
 "Long Live Sir Harry Tuffin".
+
+
+[back to top](#contents)
