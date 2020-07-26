@@ -1,5 +1,0 @@
----
-layout: pics
-data: halloffame
----
-

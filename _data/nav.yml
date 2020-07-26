@@ -3,9 +3,6 @@ description: main menu
 menu:
     - title: Galleries
       sub: 
-        - title: Hall of fame
-          url: /pages/halloffame.html
-
         - title: Oldest black & whites
           url: /pages/oldest_b_and_w_1.html
 
