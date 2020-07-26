@@ -35,7 +35,6 @@ images:
     -
       img: "baCross.jpg"
       page: "album_6"
-      who: ""
       description: "Sr Eileen Carroll<br />\r\nDied 17 July 2007<br />\r\nAges 70 years<br />\r\nRIP<p />\r\n\r\nThe grave is in Yeadon Cemetery near Leeds, right next to the airport.  The grave is in section D, number 290.  There is room for another coffin as 2 plots where bought apparently."
       user: "Hughie"
       date: "2007-07-27"
@@ -60,3 +59,6 @@ images:
     -
       img: "val_margaret_dorriswedding82.jpg"
       page: "album_6"
+    -
+      img: "AggieAndMick.jpg"
+      who: "Aggie & Mick"
