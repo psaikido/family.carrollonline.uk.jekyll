@@ -3,33 +3,31 @@
 ---
 
 var index = lunr(function () {
-    this.field('title')
-    this.field('path')
-    this.field('content')
+    this.field('img')
     this.ref('id')
 });
 
 {% assign count = 0 %}
 
-{% for item in site.pages %}
-    index.add({
-        title: {{ item.title | jsonify }},
-        path: "{{ item.url }}",
-        content: {{ item.content | strip_html | jsonify }},
-        id: {{ count }}
-    })
+var store = [];
 
-    {% assign count = count | plus: 1 %}
-{% endfor %}
+{% for gallery in site.data.galleries %}
+  {% assign gallery = gallery-hash[1] %}
 
-var store = [{% for item in site.pages %}{
-  'title': {{item.title | jsonify}},
-  'path': {{ item.url | jsonify }},
-  'excerpt': {{ item.content | strip_html | truncatewords: 20 | jsonify }}
-  }
-  {% unless forloop.last %}, {% endunless %}
+  {% for item in gallery[1].images %}
+      index.add({
+          img: "{{ item.img }}",
+          id: {{ count }}
+      })
+
+      store.push({
+        'img': "{{ item.img }}",
+        'path': "{{ gallery[1].dir }}"
+      })
+
+      {% assign count = count | plus: 1 %}
   {% endfor %}
-];
+{% endfor %}
 
 $(document).ready(function() {
   $('<div id="results">')
@@ -48,7 +46,9 @@ $(document).ready(function() {
     
     for (var item in result) {
       var ref = result[item].ref;
-      var searchitem = '<div class="result"><div class="result-body"><a href="'+store[ref].path+'" class="post-title">'+store[ref].title+'</a><p>'+store[ref].excerpt+'</p></div>';
+      var img = store[ref].path + store[ref].img;
+      var thm = store[ref].path + 'thms/thm_' + store[ref].img;
+      var searchitem = '<div class="result"><a href="'+img+'"><img src="'+thm+'" /></a></div><hr />';
       resultdiv.append(searchitem);
     }
   });
