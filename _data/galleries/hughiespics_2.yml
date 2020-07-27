@@ -70,3 +70,10 @@ images:
       img: "h_saintesconvention.jpg"
       page: "hughiespics_3"
       who: "hughie"
+    -
+      img: "nosferatu.jpg"
+      page: "hughiespics_3"
+      who: "hughie"
+      description: "Fancy dress as Nosferatu at the party where I met Sarah"
+      user: "Hughie"
+      date: "2020-07-27"

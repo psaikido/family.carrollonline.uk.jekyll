@@ -18,4 +18,4 @@ minute out-takes.
 [![Matt](/pages/the5/thms/thm_matt64.jpg)](/files/audio/matt_erms.mp3)  
 [![Tim](/pages/the5/thms/thm_tim_lawn.jpg)](/files/audio/tim_erms.mp3)  
 [![Jem](/pages/the5/thms/thm_longhairjem.jpg)](/files/audio/jem_erms.mp3)  
-[![Hughie](/pages/hughie_sarah/thms/thm_nosferatu.jpg)](/files/audio/hughie_erms.mp3)  
+[![Hughie](/pages/hughiespics/thms/thm_nosferatu.jpg)](/files/audio/hughie_erms.mp3)  
