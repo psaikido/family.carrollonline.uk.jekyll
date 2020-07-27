@@ -1,7 +1,7 @@
 <ul class="navbar-nav">
     {% for item in site.data.nav.menu %}
         {% if item.sub %}
-            <li class="nav-item parent">
+            <li class="nav-item parent" onclick="return true">
                 {{ item.title }}
 
                 <ul>
