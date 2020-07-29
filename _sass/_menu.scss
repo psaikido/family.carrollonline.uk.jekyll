@@ -3,15 +3,19 @@
     float: left;
     width: 129px;
     margin-top: 43px;
-    color: $hilight;
     font-size: 1.2em;
 
-    li.nav-item.parent {
+    li.nav-item {
         position: relative;
         height: 20px;
         padding: 8px;
         text-align: right;
         text-decoration: underline;
+        color: $hilight;
+
+        a {
+            color: $hilight;
+        }
     }
 
     li.nav-item.parent:hover ul {
@@ -46,73 +50,3 @@
         }
     }
 }
-
-/*
-.menu1 {
-    position: absolute;
-    display: block;
-    left: 0;
-    width: 100px;
-    background-color: #696969;
-    border: 1px solid #333;
-    height: 20px;
-    text-align: right;
-}
-
-.menu2 {
-    position: absolute;
-    display: none;
-    left: 115px;
-    width: 280px;
-    background-color: #696969;
-    letter-spacing: 1px;
-    text-align: left;
-    border: 1px solid #333;
-    line-height: 20px;
-    padding: 3px;
-    padding-top: 1px;
-    z-index: 10;
-}
-
-.menu2 a {
-    text-decoration: none;
-    line-height: 20px;
-    color: #eee;
-}
-
-.menu1 {
-    padding: 2px;
-}
-
-#divGalleries {
-    top: 0;
-}
-
-#divHS {
-    top: 40px;
-}
-
-#divHols{
-    top: 80px;
-}
-
-#divTree {
-    top: 120px;
-}
-
-#divFiles {
-    top: 160px;
-}
-
-#divLinks {
-    top: 200px;
-}
-
-#divInfo {
-    top: 240px;
-}
-
-#divSearch {
-    top: 280px;
-}
-*/

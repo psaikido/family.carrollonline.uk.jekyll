@@ -98,3 +98,6 @@ menu:
 
         - title: Cheney Manor Map
           url: https://goo.gl/maps/FZVWkeb7c4NdRrjV8 
+
+    - title: About
+      url: /pages/about.html
