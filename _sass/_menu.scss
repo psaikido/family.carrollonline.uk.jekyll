@@ -1,9 +1,13 @@
 .navbar-nav {
     list-style-type: none;
     float: left;
-    width: 129px;
+    width: 180px;
     margin-top: 43px;
     font-size: 1.2em;
+
+		#search-term {
+			margin-top: 20px;
+		}
 
     li.nav-item {
         position: relative;
@@ -26,11 +30,12 @@
         list-style-type: none;
         display: none;
         position: absolute;
-        left: 124px;
+        left: 180px;
         top: 0;
-        width: 250px;
+        width: 280px;
         background-color: $dark-grey;
         border: 1px solid $hilight;
+        padding: 5px;
 
         .nav-item {
             line-height: 30px;

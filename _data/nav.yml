@@ -51,6 +51,9 @@ menu:
         - title: "Hughie's pics"
           url:  /pages/hughiespics_1.html
 
+    - title: Action Gran
+      url: /pages/margaret-action-gran.html
+
     - title: Hols
       sub:
         - title: Easter 02

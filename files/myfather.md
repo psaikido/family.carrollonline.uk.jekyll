@@ -13,7 +13,7 @@ It always seemed strange to me when I was a child that we had no relatives on my
 The story of my father's origins that I had always believed was this.  My grandparents, who were butchers in Ireland, decided to emigrate to America.  They crossed the Irish Sea to Liverpool on the first stage of the journey and my grandmother, Sarah, was very sea-sick and could not face continuing the voyage to America.  The older members of the family went on, my grand-parents intending to follow.  While they rested in Liverpool, my grandmother discovered she was pregnant.  She had thought she was past child-bearing age.  They decided to stay in Liverpool and the baby who was born was my father.  They named him James.
 
 
-My grandfather, Thomas Burke, opened two butcher's shops in Liverpool and eventually died after an accident.  He was supposed to have gone to the races, come back probably the worse for drink, put his feet up on the hob and knocked a pan of boiling water over his feet.  He died of gangrene.  My grandmother was kept going for a long time by people coming with their bad debts.
+My grandfather, Thomas Burke, opened two butcher's shops in Liverpool and eventually died after an accident.  He was supposed to have gone to the races, come back probably the worse for drink, put his feet up on the hob and knocked a pan of boiling water over his feet.  He died of gangrene.  My grandmother was kept going for a long time by people coming with [their](their) bad debts.
 
 
 My father, meanwhile, grew up in Liverpool, went to school and left when quite young to go to sea.  there is also a story of his spending devoted hours tending his dying sister, Catherine.  It was never explained where she had been all this time and it never occurred to me to ask.
