@@ -10,4 +10,9 @@ Article in the [North Somerset Times](https://www.northsomersettimes.co.uk/news/
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
-<img src="/pages/action-gran/zipwire-1.png" alt="Margaret ready to ROCK!" height="600" />
+<img src="/pages/action-gran/zipwire-1.png" alt="Margaret ready to ROCK!" height="400" />
+<img src="/pages/colmandmargaret/punks.jpg" alt="punks" height="400" />
+<img src="/pages/colmandmargaret/margaret_glam.jpg" alt="glamour" height="400" />
+<img src="/pages/colmandmargaret/margaret_skipping.jpg" alt="skipping" height="400" />
+<img src="/pages/2004/bikermum.jpg" alt="pillion" height="400" />
+<img src="/pages/2004/abseil2.jpg" alt="abseiling" height="400" />

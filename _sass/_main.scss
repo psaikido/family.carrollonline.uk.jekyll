@@ -1,115 +1,117 @@
 body {
-    background-color: $dark-grey;
-    font-family: 'Mulish', sans-serif;
-    font-size: 1.2em;
-    letter-spacing: .1em;
-    color: $text-light;
-    line-height: 25px;
+	background-color: $dark-grey;
+	font-family: 'Mulish', sans-serif;
+	font-size: 1.2em;
+	letter-spacing: .1em;
+	color: $text-light;
+	line-height: 25px;
 }
 
 a, a:link, a:visited, a:hover {
-    color: $text-link;
-    letter-spacing: 2px;
+	color: $text-link;
+	letter-spacing: 2px;
 }
 
 a:hover {
-    color: $hilight;
+	color: $hilight;
 }
 
 #title {
-    letter-spacing: 10px;
-    font-style: italic;
-    font-size: 2.5em;
-    text-decoration: underline;
-    margin-left: 250px;
-    color: $hilight; 
+	letter-spacing: 10px;
+	font-style: italic;
+	font-size: 2.5em;
+	text-decoration: underline;
+	margin-left: 250px;
+	color: $hilight; 
 }
 
 .gallery {
-    margin: 10px 100px 10px 250px;
+	margin: 10px 100px 10px 250px;
 
-    img {
-        margin: 20px;  
-    }
+	img {
+		margin: 20px;  
+	}
 }
 
 .blocktext {
-    text-align: left;
+	text-align: left;
 }
 
 .record {
-    text-align: left;
-    border: 1px solid $border-light;
-    min-height: 200px;
-    margin-bottom: 10px;
-    padding: 10px;
+	text-align: left;
+	border: 1px solid $border-light;
+	min-height: 200px;
+	max-width: 800px;
+	margin-bottom: 10px;
+	padding: 10px;
 
-    .divLeft {
-        float: left;
-        margin-right: 10px;
+	.divLeft {
+		float: left;
+		margin-right: 10px;
 
-        img {
-            height: auto;
-        }
-    }
+		img {
+			height: auto;
+		}
+	}
 
-    .divRight {
-        margin: 0 10px 10px 230px;
-    }
+	.divRight {
+		margin: 0 10px 10px 230px;
+	}
+
+	img {
+		margin: 10px;
+	}
 }
 
-.record img {
-    margin: 10px;
-}
 
 .clearer {
-    clear: both;
-    height: 1px;
-    font: 0pt;
+	clear: both;
+	height: 1px;
+	font: 0pt;
 }
 
 .img {
-    text-align: right;
-    font: 0.7em;
+	text-align: right;
+	font: 0.7em;
 }
 
 .description {
-    letter-spacing: 1px;
+	letter-spacing: 1px;
 }
 
 .description a:link {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 .picInfo {
-    font-size: 0.7em;
-    font-style: italic;
-    margin-top:  20px;
+	font-size: 0.7em;
+	font-style: italic;
+	margin-top:  20px;
 }
 
 #topbar, #bottombar {
-    letter-spacing: 3px;
-    margin-bottom: 10px;
-    height: 30px;
+	letter-spacing: 3px;
+	margin-bottom: 10px;
+	height: 30px;
 }
 
 #topbar a, #bottombar a {
-    text-decoration: underline;
-    letter-spacing: 3px;
+	text-decoration: underline;
+	letter-spacing: 3px;
 }
 
 #frmSearch {
-    float: right;
+	float: right;
 }
 
 .desc_user_date, .location, .date, .year, .who, .takenby {
-    font-style: italic;
-    font-size: 0.8em;
-    margin-top: 5px;
-    letter-spacing: 3px;
-    color: $text-mute;
+	font-style: italic;
+	font-size: 0.8em;
+	margin-top: 5px;
+	letter-spacing: 3px;
+	color: $text-mute;
 }
 
 .birthday {
-    width: 300px;
+	width: 300px;
 }
