@@ -1,0 +1,152 @@
+dir: "/pages/vids/"
+
+vids:
+  -
+    img: "reel-1/label-1.jpg"
+    page: "reel-1"
+    description: "Typed label on Paddy's cine reel 'Families 1'"
+    date: "C 1959-1961"
+
+  -
+    img: "reel-1/label-2.jpg"
+    page: "reel-1"
+    description: "Typed label on Paddy's cine reel 'Families 3'"
+    date: "C 1959-1961"
+
+  -
+    vid: "reel-1/01.mp4"
+    img: "reel-1/01.jpg"
+    page: "reel-1"
+    description: "Paddy's label - 'Red rocks: Tom etc'"
+    location: "Red Rocks, West Kirby, Wirral"
+    who: "Grace family & Brendan et al"
+    date: "1959"
+
+  -
+    vid: "reel-1/02.mp4"
+    img: "reel-1/02.jpg"
+    page: "reel-1"
+    description: "Paddy's label - 'Brendan: Moreton'"
+    location: "Moreton"
+    who: "Brendan, Pat, Kevin, Colm, Margaret, Grandma Carroll, Damian, Matt, Tim, Moira, Fiona, Imelda"
+    date: "1959"
+
+  -
+    vid: "reel-1/03.mp4"
+    img: "reel-1/03.jpg"
+    page: "reel-1"
+    description: "Wallasey end of the Mersey tunnel"
+    date: "1959"
+
+  -
+    vid: "reel-1/04.mp4"
+    img: "reel-1/04.jpg"
+    page: "reel-1"
+    description: "Paddy's label 'Ijebu Igbo: Bren, and family.'"
+    location: "Victoria Beach, Ijebu Igbo, Nigeria"
+    who: "Brendan, Pat, Moira, Fiona, Imelda"
+    date: "1958/9"
+  -
+    vid: "reel-1/05.mp4"
+    img: "reel-1/05.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/06.mp4"
+    img: "reel-1/06.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/07.mp4"
+    img: "reel-1/07.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/08.mp4"
+    img: "reel-1/08.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/09.mp4"
+    img: "reel-1/09.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/10.mp4"
+    img: "reel-1/10.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/11.mp4"
+    img: "reel-1/11.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/12.mp4"
+    img: "reel-1/12.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/13.mp4"
+    img: "reel-1/13.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/14.mp4"
+    img: "reel-1/14.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/15.mp4"
+    img: "reel-1/15.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/16.mp4"
+    img: "reel-1/16.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/17.mp4"
+    img: "reel-1/17.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/18.mp4"
+    img: "reel-1/18.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
+
+  -
+    vid: "reel-1/19.mp4"
+    img: "reel-1/19.jpg"
+    page: "reel-1"
+    description: ""
+    date: "1959"
