@@ -2,18 +2,6 @@ dir: "/pages/vids/"
 
 vids:
   -
-    img: "reel-1/label-1.jpg"
-    page: "reel-1"
-    description: "Typed label on Paddy's cine reel 'Families 1'"
-    date: "C 1959-1961"
-
-  -
-    img: "reel-1/label-2.jpg"
-    page: "reel-1"
-    description: "Typed label on Paddy's cine reel 'Families 3'"
-    date: "C 1959-1961"
-
-  -
     vid: "reel-1/01.mp4"
     img: "reel-1/01.jpg"
     page: "reel-1"
