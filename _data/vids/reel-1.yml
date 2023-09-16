@@ -35,7 +35,7 @@ vids:
     vid: "reel-1/03.mp4"
     img: "reel-1/03.jpg"
     page: "reel-1"
-    description: "Wallasey end of the Mersey tunnel"
+    location: "Mersey tunnel"
     date: "1959"
 
   -
@@ -44,13 +44,21 @@ vids:
     page: "reel-1"
     description: "Paddy's label 'Ijebu Igbo: Bren, and family.'"
     location: "Victoria Beach, Ijebu Igbo, Nigeria"
-    who: "Brendan, Pat, Moira, Fiona, Imelda"
+    who: "Brendan, Pat, Peter, Moira, Fiona, Imelda"
     date: "1958/9"
   -
     vid: "reel-1/05.mp4"
     img: "reel-1/05.jpg"
     page: "reel-1"
-    description: ""
+    description: "Imelda"
+    date: "1959"
+
+  -
+    vid: "reel-1/19.mp4"
+    img: "reel-1/19.jpg"
+    page: "reel-1"
+    description: "Peter Carroll's first communion"
+    location: "Nigeria"
     date: "1959"
 
   -
@@ -58,7 +66,7 @@ vids:
     img: "reel-1/06.jpg"
     page: "reel-1"
     description: ""
-    who: "Brendan, Pat, Moira, Fiona, Imelda"
+    who: "Brendan, Pat, Peter, Moira, Fiona, Imelda"
     date: "1959"
 
   -
@@ -85,7 +93,7 @@ vids:
     page: "reel-1"
     description: ""
     location: "Muswell Hill"
-    who: "Brian, Trac, Peter, Nick, Simon"
+    who: "Brian, Trac, Nick, Peter, Simon"
     date: "1959"
 
   -
@@ -94,7 +102,7 @@ vids:
     page: "reel-1"
     description: "Gormleys"
     who: "Terry, Effy, Oonagh, Kitty"
-    location: "Edgehill"
+    location: "Grandma Carroll's place in Edgehill Road"
     date: "1959"
 
   -
@@ -130,39 +138,36 @@ vids:
     page: "reel-1"
     description: ""
     who: "Brendan & Pat, Brian & Trac's - plus children"
-    date: "1959"
+    date: "1963"
 
   -
     vid: "reel-1/15.mp4"
     img: "reel-1/15.jpg"
     page: "reel-1"
-    description: ""
-    date: "1959"
+    description: "Oonagh & Kitty playing on brown paper. Brendan's lot, Colm's lot at Grandma Carroll's probably in Edgehill Road"
+    date: "1961"
 
   -
     vid: "reel-1/16.mp4"
     img: "reel-1/16.jpg"
     page: "reel-1"
     description: ""
-    date: "1959"
+    location: "Longleat, Stonehenge"
+    who: "Carrolls with Ba"
+    date: "1970"
 
   -
     vid: "reel-1/17.mp4"
     img: "reel-1/17.jpg"
     page: "reel-1"
     description: ""
-    date: "1959"
+    location: "Slimbridge"
+    date: "1970"
 
   -
     vid: "reel-1/18.mp4"
     img: "reel-1/18.jpg"
     page: "reel-1"
-    description: ""
-    date: "1959"
-
-  -
-    vid: "reel-1/19.mp4"
-    img: "reel-1/19.jpg"
-    page: "reel-1"
-    description: ""
-    date: "1959"
+    description: "Maynooth Ireland, Wood Green, New Brighton"
+    who: "Trac et al"
+    date: "1970"
