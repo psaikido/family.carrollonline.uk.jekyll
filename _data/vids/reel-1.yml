@@ -58,6 +58,7 @@ vids:
     img: "reel-1/06.jpg"
     page: "reel-1"
     description: ""
+    who: "Brendan, Pat, Moira, Fiona, Imelda"
     date: "1959"
 
   -
@@ -65,6 +66,8 @@ vids:
     img: "reel-1/07.jpg"
     page: "reel-1"
     description: ""
+    location: "Hoylake"
+    who: "Grandma Carroll, Colm, Margaret, Damian, Matt, Tim, Pat, Moira, Fiona, Imelda"
     date: "1959"
 
   -
@@ -72,6 +75,8 @@ vids:
     img: "reel-1/08.jpg"
     page: "reel-1"
     description: ""
+    location: "Bidstone Hill"
+    who: "Colm, Margaret, Damian, Matt, Tim, Jem"
     date: "1959"
 
   -
@@ -79,13 +84,17 @@ vids:
     img: "reel-1/09.jpg"
     page: "reel-1"
     description: ""
+    location: "Muswell Hill"
+    who: "Brian, Trac, Peter, Nick, Simon"
     date: "1959"
 
   -
     vid: "reel-1/10.mp4"
     img: "reel-1/10.jpg"
     page: "reel-1"
-    description: ""
+    description: "Gormleys"
+    who: "Terry, Effy, Oonagh, Kitty"
+    location: "Edgehill"
     date: "1959"
 
   -
@@ -93,6 +102,8 @@ vids:
     img: "reel-1/11.jpg"
     page: "reel-1"
     description: ""
+    location: "Reedville Grove"
+    who: "Colm, Margaret, Damian, Matt"
     date: "1959"
 
   -
@@ -100,6 +111,8 @@ vids:
     img: "reel-1/12.jpg"
     page: "reel-1"
     description: ""
+    location: "Arrowe Park"
+    who: "Colm, Margaret, Damian, Matt, Tim"
     date: "1959"
 
   -
@@ -107,13 +120,16 @@ vids:
     img: "reel-1/13.jpg"
     page: "reel-1"
     description: ""
-    date: "1959"
+    location: "Reedville Grove & Edgehill"
+    who: "Terry, Effy, Oonagh, Kitty, Martin, Sally, Colm, Margaret, Damian, Matt, Tim"
+    date: "1961"
 
   -
     vid: "reel-1/14.mp4"
     img: "reel-1/14.jpg"
     page: "reel-1"
     description: ""
+    who: "Brendan & Pat, Brian & Trac's - plus children"
     date: "1959"
 
   -
