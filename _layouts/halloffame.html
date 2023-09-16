@@ -4,9 +4,7 @@
     <h2>{{ page.title }}</h2>
 
     {% for pic in site.data.galleries[page.data].images %}
-        <a href="{{ pic.img }}" title="{{ pic.alt }}">
-            <img src="{{ pic.thm }}" alt="{{ pic.alt }}" />
-        </a>
+        <a href="{{ pic.img }}" title="{{ pic.alt }}"><img src="{{ pic.thm }}" alt="{{ pic.alt }}" /></a>
     {% endfor %}
 </div>
 
