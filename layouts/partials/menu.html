@@ -1,17 +1,21 @@
 <ul class="navbar-nav">
 	{{ range .Site.Data.nav.menu }}
-			{{ range .sub }}
-				<li class="nav-item parent" onclick="return true">
-				{{ .title }}
+		{{ $item := . }}
 
-				<ul>
-						<li class="nav-item">
-							<a href="{{ .url }}" alt="{{ .title }}">
-									{{ .title }}
-							</a>
-						</li>
-				</ul>
-			</li>
+		{{ if .sub }}
+				<li class="nav-item parent" onclick="return true">
+					{{ .title }}
+
+					<ul>
+						{{range .sub }}
+							<li class="nav-item">
+								<a href="{{ .url }}" alt="{{ .title }}">
+										{{ .title }}
+								</a>
+							</li>
+						{{ end }}
+					</ul>
+				</li>
 		{{ else }}
 			<li class="nav-item">
 				<a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
