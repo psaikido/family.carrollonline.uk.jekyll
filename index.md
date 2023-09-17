@@ -1,4 +1,0 @@
----
-layout: halloffame 
-data: halloffame
----

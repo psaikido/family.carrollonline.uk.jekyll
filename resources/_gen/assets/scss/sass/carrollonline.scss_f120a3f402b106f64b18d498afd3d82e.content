@@ -1,0 +1,142 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #c98f2a; }
+
+body {
+  background-color: #343a40;
+  font-family: 'Mulish', sans-serif;
+  font-size: 1.2em;
+  letter-spacing: .1em;
+  color: #cdc8c8;
+  line-height: 25px; }
+
+a, a:link, a:visited, a:hover {
+  color: #ada8a8;
+  letter-spacing: 2px; }
+
+a:hover {
+  color: #c98f2a; }
+
+#title {
+  letter-spacing: 10px;
+  font-style: italic;
+  font-size: 2.5em;
+  text-decoration: underline;
+  margin-left: 250px;
+  color: #c98f2a; }
+
+.gallery {
+  margin: 10px 100px 10px 250px; }
+  .gallery img {
+    margin: 20px; }
+
+.main-content {
+  margin: 10px 100px 10px 250px;
+  max-width: 700px; }
+
+.blocktext {
+  text-align: left; }
+
+.record {
+  text-align: left;
+  border: 1px solid #586e75;
+  min-height: 200px;
+  max-width: 800px;
+  margin-bottom: 10px;
+  padding: 10px; }
+  .record .divLeft {
+    float: left;
+    margin-right: 10px; }
+    .record .divLeft img {
+      height: auto; }
+  .record .divRight {
+    margin: 0 10px 10px 230px; }
+  .record img {
+    margin: 10px; }
+
+.clearer {
+  clear: both;
+  height: 1px;
+  font: 0pt; }
+
+.img {
+  text-align: right;
+  font: 0.7em; }
+
+.description {
+  letter-spacing: 1px; }
+
+.description a:link {
+  text-decoration: underline; }
+
+.picInfo {
+  font-size: 0.7em;
+  font-style: italic;
+  margin-top: 20px; }
+
+#topbar, #bottombar {
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+  height: 30px; }
+
+#topbar a, #bottombar a {
+  text-decoration: underline;
+  letter-spacing: 3px; }
+
+#frmSearch {
+  float: right; }
+
+.desc_user_date, .location, .date, .year, .who, .takenby {
+  font-style: italic;
+  font-size: 0.8em;
+  margin-top: 5px;
+  letter-spacing: 3px;
+  color: #7d7878; }
+
+.birthday {
+  width: 300px; }
+
+.navbar-nav {
+  list-style-type: none;
+  float: left;
+  width: 180px;
+  margin-top: 43px;
+  font-size: 1.2em; }
+  .navbar-nav #search-term {
+    margin-top: 20px; }
+  .navbar-nav li.nav-item {
+    position: relative;
+    height: 20px;
+    padding: 8px;
+    text-align: right;
+    text-decoration: underline;
+    color: #c98f2a; }
+    .navbar-nav li.nav-item a {
+      color: #c98f2a; }
+  .navbar-nav li.nav-item.parent:hover ul {
+    display: block; }
+  .navbar-nav ul {
+    list-style-type: none;
+    display: none;
+    position: absolute;
+    left: 180px;
+    top: 0;
+    width: 280px;
+    background-color: #343a40;
+    border: 1px solid #c98f2a;
+    padding: 5px; }
+    .navbar-nav ul .nav-item {
+      line-height: 30px;
+      text-align: left;
+      width: 100%; }
+      .navbar-nav ul .nav-item a {
+        display: inline-block;
+        width: 100%;
+        text-decoration: underline;
+        color: #c98f2a; }
+    .navbar-nav ul .nav-link {
+      color: #c98f2a; }

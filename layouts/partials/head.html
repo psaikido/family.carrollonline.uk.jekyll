@@ -1,0 +1,16 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <title>{{ .Site.Params.Title }}{{ if .Params.title }} | {{ .Params.title }}{{ end }}</title>
+    <link rel="shortcut icon" href="/images/site/favicon.ico" type="image/png" />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <script src="/js/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <script src="/js/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+
+    {{ $style := resources.Get "sass/carrollonline.scss" | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
