@@ -4,7 +4,7 @@ menu:
     - title: Galleries
       sub: 
         - title: "Oldest black & whites"
-          url: /galleries/oldest_b_and_w_1.html
+          url: /galleries/oldest_b_and_w/oldest_b_and_w_1/
 
         - title: "50s & 60s"
           url: /galleries/50s60s/
@@ -13,79 +13,82 @@ menu:
           url: /galleries/album/album_1/
 
         - title: "Teeth!"
-          url: /galleries/teeth.html
+          url: /galleries/teeth/
 
         - title: "Colm & Margaret"
-          url: /galleries/colmandmargaret_1.html
+          url: /galleries/colmandmargaret/colmandmargaret_1/
 
         - title: "Colm's art photos"
-          url: /galleries/culart.html
+          url: /galleries/culart/
 
         - title: "The 5"
-          url: /galleries/the5_1.html
+          url: /galleries/the5/the5_1/
 
         - title: "Gower page"
-          url: /galleries/gower_1.html
+          url: /galleries/gower/gower_1/
 
         - title: "Tim's gallery"
-          url: /galleries/timgallery_1.html
+          url: /galleries/timgallery/timgallery_1/
 
         - title: "Cronin clan"
-          url: /galleries/cronins_1.html
+          url: /galleries/cronins/cronins_1/
 
         - title: "Jem & Sally O'Carroll"
-          url: /galleries/jem_sally.html
+          url: /galleries/jem_sally/
 
         - title: "Brendan's page"
-          url: /galleries/brendan.html
+          url: /galleries/brendan/
 
         - title: "2004 sundry"
-          url: /galleries/year2004.html
+          url: /galleries/2004/
 
         - title: "Paddy's 80th"
-          url: /galleries/paddy80.html
+          url: /galleries/paddy80/
 
         - title: "Golden Wedding"
-          url: /galleries/goldenwedding.html
+          url: /galleries/goldenwedding/
 
         - title: "Hughie's pics"
-          url:  /galleries/hughiespics_1.html
+          url:  /galleries/hughiespics/hughiespics_1/
 
     - title: "Action Gran"
-      url: /galleries/margaret-action-gran.html
+      url: /galleries/action-gran/
 
     - title: "Hols"
       sub:
         - title: "Easter 02"
-          url: /galleries/easter02.html
+          url: /galleries/easter02/
 
         - title: "Lyme Regis 02"
-          url: /galleries/lyme02.html
+          url: /galleries/lyme02/
 
         - title: "Merseyside 06"
-          url: /galleries/merseyside06.html
+          url: /galleries/merseyside06/
 
     - title: "Files"
       sub:
         - title: "Mystery Man"
-          url: /files/myfather.html
+          url: /files/myfather/
 
         - title: "Cully's corner"
-          url: /files/cullyscorner.html
+          url: /files/cullyscorner/
 
         - title: "The 'erm' out-takes"
-          url: /files/erm.html
+          url: /files/erm/
 
         - title: "Kevin's obituary"
-          url: /files/kevinobit.html
+          url: /files/kevinobit/
         
         - title: "Funnies"
-          url: /galleries/funnies.html
+          url: /galleries/funnies/
 
     - title: "Links"
       sub:
         - title: "Genealogy"
-          url: http://carrollonline.tribalgalleries.com/
+          url: https://carrollonline.tribalpages.com/
+
+        - title: "O'Carroll on wikipedia"
+          url: https://en.wikipedia.org/wiki/O%27Carroll
 
         - title: "Damo on deviantart"
           url: https://www.deviantart.com/capn-damo
@@ -106,4 +109,4 @@ menu:
           url: https://goo.gl/maps/FZVWkeb7c4NdRrjV8 
 
     - title: "About"
-      url: /galleries/about.html
+      url: /files/about/

@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<h2>{{ .Params.title }}</h2>
+
+	<div class="home">
+		{{ $data := index .Site.Data .Params.dataFile }}
+
+		{{ range $data.images }}
+			<a href="{{ .img }}">
+				<img src="{{ .thm }}" />
+			</a>
+		{{ end }}
+
+		{{ with .Params.next }}
+			<a href="{{ $data.dir }}{{ . }}">[next] -> {{ . }}</a>
+		{{ end }}
+	</div>
+
+{{ end }}

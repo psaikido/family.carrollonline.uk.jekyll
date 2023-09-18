@@ -1,4 +1,4 @@
-dir: "/pages/the5/"
+dir: "/galleries/the5/"
 
 images:
     -
@@ -115,4 +115,4 @@ images:
       page: "the5_1"
       description: "In our first year in Swindon we explored the local places of interest. You could get right up to the stones in those days."
       user: "Margaret"
-      date: "2000-11-00"
+      date: "2000-11-01"

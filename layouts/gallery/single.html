@@ -18,27 +18,29 @@
 				
 				<div class="picInfo">
 						{{ with .user }}
-								note by: {{ . }}<br />
+							note by: {{ . }}<br />
 						{{ end }}
 
 						{{ with .date }}
-								edited: {{ time.Format "Jan 2006" . }}<br />
+							edited: {{ . }}<br />
 						{{ end }}
 
 						{{ with .location }}
-								Location: {{ . }}<br />
+							Location: {{ . }}<br />
 						{{ end }}
 
 						{{ with .who }}
-								who: {{ . }}<br />
+							who: {{ . }}<br />
 						{{ end }}
 				</div>
 			</div>
+
+			<div class="clearer">&nbsp;</div>
 		</div>
 	{{ end }}
 
 	{{ with .Params.next }}
-	<a href="{{ $data.dir }}{{ . }}">[next] -> {{ . }}</a>
+		<a href="{{ $data.dir }}{{ . }}">[next] -> {{ . }}</a>
 	{{ end }}
 
 {{ end }}
