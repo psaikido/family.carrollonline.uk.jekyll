@@ -1,0 +1,90 @@
+dir: "/galleries/50s60s/"
+
+images:
+    -
+      img: "ba_marycarroll_1964.jpg"
+      page: "50s60s_1"
+      who: "Grandma Carroll & Ba"
+      description: "Grandma Carroll & Ba in full robes."
+      user: "Hughie"
+      date: "2004-01-22"
+    -
+      img: "carrolls_cronins_heswall.jpg"
+      page: "50s60s_1"
+      description: "Cronins took this bungalow on the shore at Heswall for several summers. We visited them there one year and had a lovely day. Tim liked Mick. He said he wanted to go with the man with the cracks in his head. (Mick had a very lined forehead). "
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "carrolls_hilliards_slide.jpg"
+      page: "50s60s_1"
+      description: "In the garden of Reedville Grove. The slide is the one Cul made.It could be dismantled and the ladder could be used separately. "
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "chester64.jpg"
+      page: "50s60s_1"
+      description: "Great fun sailing on the River Dee at Chester. Matt was very reluctant to let Tim have a go."
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "colm_jem_easter64.jpg"
+      page: "50s60s_1"
+      who: "Colm, Jem"
+      description: "Colm and Jem, Easter '64"
+      user: "Hughie"
+      date: "2004-01-22"
+    -
+      img: "cul_and4_onhill.jpg"
+      page: "50s60s_1"
+      description: "On top of the world! We thought Thurstaston Hill was really high. We always had lovely picnics among the heather and the red sandstone. "
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "effie_serious.jpg"
+      page: "50s60s_1"
+      description: "Effie in pensive mood."
+      user: "Margaret"
+      date: "2000-10-17"
+    -
+      img: "graces_carrolls.jpg"
+      page: "50s60s_1"
+      description: "In the garden in Moreton. Three families here, Brendan's, Colm's and Mary's. Hugh in the front and Tom at the back."
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "ba.jpg"
+      page: "50s60s_1"
+    -
+      img: "ba_birkenheaddocks_1959.jpg"
+      page: "50s60s_1"
+    -
+      img: "ba_novice_1961.jpg"
+      page: "50s60s_1"
+    -
+      img: "ba_tennispals_1950.jpg"
+      page: "50s60s_1"
+      who: "Ba"
+    -
+      img: "h_and_dog.jpg"
+      page: "50s60s_2"
+      description: "Hugh making friends with Turk, the boxer dog from next door.Turk looked very fierce but was really a softy. Our cat could easily see him off the premises. We were once asked to look after him when George, from next door, had to do a night shift. He couldn\\'t find the dog as he left for work, but assured us he was not far away. We looked and looked and called and called but there was no sign of him. I had to get up in the night to get a drink for one of the children and I went out and called again. I thought I heard a faint barking. We had to ring George and admit we hadn\\'t found him.When George arrived home he was knocked over by the dog which had been locked in the house all the time.  "
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "hugh_dias_hugh.jpg"
+      page: "50s60s_2"
+      description: "Hugh Dias was a friend of Cul's from college. He lived near Carlisle. We visited several times and he was Hugh's godfather. He died about ten years ago. We still keep in touch with his wife, Rosemary."
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "lakedistrict_whit65.jpg"
+      page: "50s60s_2"
+      description: "During this visit (to the Lake District) Hugh Dias and family joined us for the day."
+      user: "Margaret"
+      date: "2000-10-22"
+    -
+      img: "margaret_hugh_anglesey64.jpg"
+      page: "50s60s_2"
+      description: "Hugh was born five weeks early so was older than we expected him to be when we booked this holiday. We had a flat in Old Colwyn. It was a very staid sort of place and they took some adjusting to five lively (but very well behaved !!) boys. "
+      user: "Margaret"
+      date: "2000-10-22"

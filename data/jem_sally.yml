@@ -1,0 +1,66 @@
+dir: "/pages/jem_sally/"
+
+images:
+    -
+      img: "alex1.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex2.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex_abs.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex_hughie.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex_jem_sal2.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex_marg.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alex_sarah.jpg"
+      page: "jem_sally_1"
+    -
+      img: "alexgrins.jpg"
+      page: "jem_sally_1"
+    -
+      img: "babyscan1.jpg"
+      page: "jem_sally_1"
+    -
+      img: "babyscan2.jpg"
+      page: "jem_sally_1"
+    -
+      img: "carrolls.jpg"
+      page: "jem_sally_1"
+    -
+      img: "group1.jpg"
+      page: "jem_sally_1"
+    -
+      img: "jemsallyregister.jpg"
+      page: "jem_sally_1"
+    -
+      img: "js_andeden.jpg"
+      page: "jem_sally_1"
+    -
+      img: "js_andlawes.jpg"
+      page: "jem_sally_1"
+    -
+      img: "lawes_carrolls.jpg"
+      page: "jem_sally_1"
+    -
+      img: "lawesgroup.jpg"
+      page: "jem_sally_1"
+    -
+      img: "isabel_colm_alex.jpg"
+      page: "jem_sally_2"
+      description: "Colm and Alex greet Isobel"
+      user: "Hughie"
+      date: "2007-06-08"
+    -
+      img: "jem_petra.jpg"
+      page: "jem_sally_2"
+    -
+      img: "clappy_jem.jpg"
+      page: "jem_sally_2"

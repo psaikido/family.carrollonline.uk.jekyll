@@ -1,0 +1,39 @@
+dir: "/pages/oldest_b_and_w/"
+
+images:
+    -
+      img: "leoswedding58.jpg"
+      page: "oldest_b_and_w_4"
+      description: "Leo's wedding."
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "unclejackswedding.jpg"
+      page: "oldest_b_and_w_4"
+      description: "Jack Walsh,Grandma Burkie's brother,with daughter, Christine. "
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "grandma_b_father.jpg"
+      page: "oldest_b_and_w_4"
+      description: "Grandma Burkie aka Marie with father, James Walsh, on her 12th. birthday.1913."
+      user: "Margaret"
+      date: "2004-04-24"
+    -
+      img: "mary_jonathan_53.jpg"
+      page: "oldest_b_and_w_4"
+    -
+      img: "paddy_dandy_47.jpg"
+      page: "oldest_b_and_w_4"
+    -
+      img: "paddyofftonigeria.jpg"
+      page: "oldest_b_and_w_4"
+    -
+      img: "tracandba.jpg"
+      page: "oldest_b_and_w_4"
+    -
+      img: "tracs_wedding.jpg"
+      page: "oldest_b_and_w_4"
+    -
+      img: "youngpaddy.jpg"
+      page: "oldest_b_and_w_4"

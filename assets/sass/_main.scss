@@ -5,6 +5,7 @@ body {
 	letter-spacing: .1em;
 	color: $text-light;
 	line-height: 25px;
+	padding: 20px;
 }
 
 a, a:link, a:visited, a:hover {
@@ -34,7 +35,7 @@ a:hover {
 }
 
 .main-content {
-	margin: 10px 100px 10px 250px;
+	margin: 51px 100px 10px 250px;
 	max-width: 700px;
 }
 
@@ -119,4 +120,15 @@ a:hover {
 
 .birthday {
 	width: 300px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 30px;
+	text-align: center;
+	width: 100%;
+	font-size: 18px;
+	font-style: italic;
 }

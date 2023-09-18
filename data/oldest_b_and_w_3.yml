@@ -1,0 +1,45 @@
+dir: "/pages/oldest_b_and_w/"
+
+images:
+    -
+      img: "leo_vin.jpg"
+      page: "oldest_b_and_w_3"
+      description: "Leo and Vincent taken in a Liverpool park"
+      user: "Margaret"
+      date: "2004-01-30"
+    -
+      img: "kevin_bike_africa.jpg"
+      page: "oldest_b_and_w_3"
+      description: "Kevin with a really cool classic bike, anyone know what it is?"
+      user: "Hughie"
+      date: "2004-01-29"
+    -
+      img: "grandmab_damian_slide.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "grandmaburke.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "grandmacarrollbabyportrait.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "grandmadandyco.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "granmaburke_newspaper.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "greatgrandmother.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "james_burke.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "james_mary_kehoe.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "kevin_paddy_canoe_africa.jpg"
+      page: "oldest_b_and_w_3"
+    -
+      img: "kevin_paddy_mary_trac.jpg"
+      page: "oldest_b_and_w_3"

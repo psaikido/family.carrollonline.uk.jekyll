@@ -1,0 +1,44 @@
+{{ define "main" }}
+	<h2>{{ .Params.title }}</h2>
+
+	{{ $data := index .Site.Data .Params.dataFile }}
+
+	{{ range $data.images }}
+		<div class="record">
+			<div class="divLeft">
+				<a href="{{ $data.dir }}{{ .img }}">
+					<img src="{{ $data.dir }}thms/thm_{{ .img }}" />
+				</a>
+			</div>
+
+			<div class="divRight">
+				{{ with .description }}
+					{{ . }}<br />
+				{{ end }}
+				
+				<div class="picInfo">
+						{{ with .user }}
+								note by: {{ . }}<br />
+						{{ end }}
+
+						{{ with .date }}
+								edited: {{ time.Format "Jan 2006" . }}<br />
+						{{ end }}
+
+						{{ with .location }}
+								Location: {{ . }}<br />
+						{{ end }}
+
+						{{ with .who }}
+								who: {{ . }}<br />
+						{{ end }}
+				</div>
+			</div>
+		</div>
+	{{ end }}
+
+	{{ with .Params.next }}
+	<a href="{{ $data.dir }}{{ . }}">[next] -> {{ . }}</a>
+	{{ end }}
+
+{{ end }}

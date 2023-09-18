@@ -1,0 +1,27 @@
+dir: "/pages/brendan/"
+
+images:
+    -
+      img: "bren_158brigade.jpg"
+      page: "brendan"
+    -
+      img: "bren_egypt.jpg"
+      page: "brendan"
+    -
+      img: "bren_horse.jpg"
+      page: "brendan"
+    -
+      img: "bren_malaysia.jpg"
+      page: "brendan"
+    -
+      img: "bren_pat_paddy_frank.jpg"
+      page: "brendan"
+    -
+      img: "bren_pat_wedding1.jpg"
+      page: "brendan"
+    -
+      img: "bren_pat_wedding2.jpg"
+      page: "brendan"
+    -
+      img: "bren_piano.jpg"
+      page: "brendan"

@@ -3,107 +3,107 @@ description: main menu
 menu:
     - title: Galleries
       sub: 
-        - title: Oldest black & whites
-          url: /pages/oldest_b_and_w_1.html
+        - title: "Oldest black & whites"
+          url: /galleries/oldest_b_and_w_1.html
 
         - title: "50s & 60s"
-          url: /pages/50s60s_1.html
+          url: /galleries/50s60s/
 
-        - title: Albums
-          url: /pages/album_1.html
+        - title: "Albums"
+          url: /galleries/album/album_1/
 
-        - title: Teeth!
-          url: /pages/teeth.html
+        - title: "Teeth!"
+          url: /galleries/teeth.html
 
         - title: "Colm & Margaret"
-          url: /pages/colmandmargaret_1.html
+          url: /galleries/colmandmargaret_1.html
 
         - title: "Colm's art photos"
-          url: /pages/culart.html
+          url: /galleries/culart.html
 
-        - title: The 5
-          url: /pages/the5_1.html
+        - title: "The 5"
+          url: /galleries/the5_1.html
 
-        - title: Gower page
-          url: /pages/gower_1.html
+        - title: "Gower page"
+          url: /galleries/gower_1.html
 
         - title: "Tim's gallery"
-          url: /pages/timgallery_1.html
+          url: /galleries/timgallery_1.html
 
-        - title: Cronin clan
-          url: /pages/cronins_1.html
+        - title: "Cronin clan"
+          url: /galleries/cronins_1.html
 
         - title: "Jem & Sally O'Carroll"
-          url: /pages/jem_sally.html
+          url: /galleries/jem_sally.html
 
         - title: "Brendan's page"
-          url: /pages/brendan.html
+          url: /galleries/brendan.html
 
-        - title: 2004 sundry
-          url: /pages/year2004.html
+        - title: "2004 sundry"
+          url: /galleries/year2004.html
 
         - title: "Paddy's 80th"
-          url: /pages/paddy80.html
+          url: /galleries/paddy80.html
 
-        - title: Golden Wedding	
-          url: /pages/goldenwedding.html
+        - title: "Golden Wedding"
+          url: /galleries/goldenwedding.html
 
         - title: "Hughie's pics"
-          url:  /pages/hughiespics_1.html
+          url:  /galleries/hughiespics_1.html
 
-    - title: Action Gran
-      url: /pages/margaret-action-gran.html
+    - title: "Action Gran"
+      url: /galleries/margaret-action-gran.html
 
-    - title: Hols
+    - title: "Hols"
       sub:
-        - title: Easter 02
-          url: /pages/easter02.html
+        - title: "Easter 02"
+          url: /galleries/easter02.html
 
-        - title: Lyme Regis 02
-          url: /pages/lyme02.html
+        - title: "Lyme Regis 02"
+          url: /galleries/lyme02.html
 
-        - title: Merseyside 06
-          url: /pages/merseyside06.html
+        - title: "Merseyside 06"
+          url: /galleries/merseyside06.html
 
-    - title: Files
+    - title: "Files"
       sub:
-        - title: Mystery Man
+        - title: "Mystery Man"
           url: /files/myfather.html
 
-        - title: Cully's corner
+        - title: "Cully's corner"
           url: /files/cullyscorner.html
 
-        - title: The 'erm' out-takes
+        - title: "The 'erm' out-takes"
           url: /files/erm.html
 
-        - title: Kevin's obituary
+        - title: "Kevin's obituary"
           url: /files/kevinobit.html
         
-        - title: Funnies
-          url: /pages/funnies.html
+        - title: "Funnies"
+          url: /galleries/funnies.html
 
-    - title: Links
+    - title: "Links"
       sub:
-        - title: Genealogy
-          url: http://carrollonline.tribalpages.com/
+        - title: "Genealogy"
+          url: http://carrollonline.tribalgalleries.com/
 
-        - title: Damo on deviantart
+        - title: "Damo on deviantart"
           url: https://www.deviantart.com/capn-damo
 
-        - title: Tim's art
+        - title: "Tim's art"
           url: http://www.timcarroll.yolasite.com/
 
-        - title: Jem on Instagram
+        - title: "Jem on Instagram"
           url: https://www.instagram.com/jemocarroll/
 
-        - title: Hughie's home page
+        - title: "Hughie's home page"
           url: https://hugle.uk
 
-        - title: Reedville Grove Map
+        - title: "Reedville Grove Map"
           url: https://goo.gl/maps/a76MVZUYSkK2hwNd8 
 
-        - title: Cheney Manor Map
+        - title: "Cheney Manor Map"
           url: https://goo.gl/maps/FZVWkeb7c4NdRrjV8 
 
-    - title: About
-      url: /pages/about.html
+    - title: "About"
+      url: /galleries/about.html

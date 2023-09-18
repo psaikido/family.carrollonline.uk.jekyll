@@ -1,0 +1,73 @@
+dir: "/pages/2004/"
+
+images:
+    -
+      img: "capn_damo_snow_petrel.jpg"
+      page: 2004
+      description: "Cap'n Damo of the good ship Snow Petrel."
+      user: "Margaret"
+      date: "2004-02-25"
+    -
+      img: "d_jem_snow_petrel.jpg"
+      page: 2004
+      description: "Dinner on board yacht!"
+      user: "Margaret"
+      date: "2004-02-25"
+    -
+      img: "mmc_snow_petrel.jpg"
+      page: 2004
+      description: "Snow Petrel in Portishead Marina.Visit by Mike and Sheila, Colm and Margaret and Jem and Sal and Alex.13.2.04"
+      user: "Margaret"
+      date: "2004-02-25"
+    -
+      img: "bikermum.jpg"
+      page: 2004
+      who: "Margaret & Hughie"
+      description: "Hell's grannies - Margaret at 72 and Hughie at 40 (but not a granny).  Oh, and the new Suzuki SV650S - we went for blast around Wiltshire - yeehaw."
+      user: "Hughie"
+      date: "2004-05-27"
+      location: "Lansdown Road, Swindon"
+    -
+      img: "abseil1.jpg"
+      page: 2004
+      description: "Psyching up for the moment of truth before abseiling - 5.11.04."
+      user: "Margaret"
+      date: "2004-11-07"
+    -
+      img: "abseil2.jpg"
+      page: 2004
+      description: "No going back now!"
+      user: "Margaret"
+      date: "2004-11-07"
+    -
+      img: "gwr_group_beach.jpg"
+      page: 2004
+      description: "Fun in The Gower. Jem, Alex, Chris, Rosie and Josh. Eden in the water."
+      user: "Margaret"
+      date: "2004-11-07"
+    -
+      img: "gwr_rosie_beach.jpg"
+      page: 2004
+      description: "Stunning Rosie as a bathing belle."
+      user: "Margaret"
+      date: "2004-11-07"
+    -
+      img: "gwr_eden_dive.jpg"
+      page: 2004
+      description: "Eden defending the dam."
+      user: "Margaret"
+      date: "2004-11-07"
+    -
+      img: "40bdaycake.jpg"
+      page: 2004
+      description: "Nice bike mate! the sv650s and me on my cake at the Barge Inn, Honey Street"
+      user: "Hughie"
+      date: "2004-11-14"
+    -
+      img: "keith_matt_cul.jpg"
+      page: 2004
+      who: "Keith Tucker, Matt, Colm"
+    -
+      img: "chill_bargeinn.jpg"
+      page: 2004
+      description: "Chillin at the Barge Inn, Honey Street"

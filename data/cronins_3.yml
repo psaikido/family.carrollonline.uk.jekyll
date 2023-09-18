@@ -1,0 +1,29 @@
+dir: "/pages/cronins/"
+
+images:
+    -
+      img: "bev.jpg"
+      page: "cronins_3"
+      who: "Bev"
+      description: "At Sheila's 60th birthday party"
+      user: "Hughie"
+      date: "2004-02-25"
+    -
+      img: "andybevsi1.jpg"
+      page: "cronins_3"
+      who: "Bev with Andy and Simon"
+      description: "Bev with Andy and Simon at Rachael's 21st."
+      user: "Hughie"
+      date: "2004-02-25"
+    -
+      img: "adie_rachel.jpg"
+      page: "cronins_3"
+    -
+      img: "anne_rachel_ken.jpg"
+      page: "cronins_3"
+    -
+      img: "rachel_aisle.jpg"
+      page: "cronins_3"
+    -
+      img: "rachel_weddingdress.jpg"
+      page: "cronins_3"

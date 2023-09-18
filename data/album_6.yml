@@ -1,0 +1,64 @@
+dir: "/galleries/album/"
+
+images:
+    -
+      img: "rubyweddinggroup.jpg"
+      page: "album_6"
+      description: "We had open house for our ruby wedding. One of the guests took this of the family. Maddy made all the smart waistcoats. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "sam_aug75.jpg"
+      page: "album_6"
+      who: "Sam"
+      description: "Sam - never knew when to quit running after that ball!"
+      user: "Hughie"
+      date: "2004-01-22"
+    -
+      img: "vincent.jpg"
+      page: "album_6"
+      description: "Vincent in his legal mode. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "walsh_cousins.jpg"
+      page: "album_6"
+      description: "The family gathered to celebrate Auntie Flo's 90th. birthday. There were only three cousins missing. They were abroard."
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "walsh_cousins2.jpg"
+      page: "album_6"
+      description: "The family gathered to celebrate Auntie Flo's 90th. birthday. There were only three cousins missing. They were abroard."
+      user: "Margaret"
+      date: "2000-10-30"
+    -
+      img: "baCross.jpg"
+      page: "album_6"
+      description: "Sr Eileen Carroll<br />\r\nDied 17 July 2007<br />\r\nAges 70 years<br />\r\nRIP<p />\r\n\r\nThe grave is in Yeadon Cemetery near Leeds, right next to the airport.  The grave is in section D, number 290.  There is room for another coffin as 2 plots where bought apparently."
+      user: "Hughie"
+      date: "2007-07-27"
+    -
+      img: "rosie_swings.jpg"
+      page: "album_6"
+    -
+      img: "rosy_josh.jpg"
+      page: "album_6"
+    -
+      img: "samrunning_aug75.jpg"
+      page: "album_6"
+    -
+      img: "smiley_eden.jpg"
+      page: "album_6"
+    -
+      img: "tobogan.jpg"
+      page: "album_6"
+    -
+      img: "trac.jpg"
+      page: "album_6"
+    -
+      img: "val_margaret_dorriswedding82.jpg"
+      page: "album_6"
+    -
+      img: "AggieAndMick.jpg"
+      who: "Aggie & Mick"

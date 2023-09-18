@@ -1,0 +1,69 @@
+dir: "/galleries/album/"
+
+images:
+    -
+      img: "matt_josh_jem_chess.jpg"
+      page: "album_5"
+      description: "On a grand family holiday in Wales. We hired a couple of houses near to each other to celebrate Cully's 70th. birthday. Josh was absorbed in the game."
+      user: "Margaret"
+      date: "2000-10-01"
+    -
+      img: "midge_ball.jpg"
+      page: "album_5"
+      description: "Mij in the garden of Cheney Manor Road. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "midgebeingadored.jpg"
+      page: "album_5"
+      description: "On holiday with Ba. All petting the angel Mij. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "mij_beach.jpg"
+      page: "album_5"
+      description: "Mij had a super turn of speed. We think she had whippet or greyhound in her. She loved fetching sticks. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "mij_bridge.jpg"
+      page: "album_5"
+      description: "While camping near Lyme Regis. Mij queen of all she surveyed. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "party84.jpg"
+      page: "album_5"
+      description: "Party held at Brendan's in Newbury ('84). He usually had a get-together roundabout their wedding anniversary. "
+      user: "Margaret"
+      date: "2000-10-29"
+    -
+      img: "mike_sheila.jpg"
+      page: "album_5"
+      description: "Mike and Sheila."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "paddy.jpg"
+      page: "album_5"
+      description: "Paddy in Cork."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "paddy_tom.jpg"
+      page: "album_5"
+      description: "Paddy and Tom."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "paddy_wiltshire.jpg"
+      page: "album_5"
+      description: "Paddy."
+      user: "Margaret"
+      date: "2004-02-21"
+    -
+      img: "may_margaret.jpg"
+      page: "album_5"
+    -
+      img: "mountains.jpg"
+      page: "album_5"

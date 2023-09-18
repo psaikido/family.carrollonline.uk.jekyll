@@ -1,0 +1,42 @@
+dir: "/pages/gower/"
+
+images:
+    -
+      img: "chris_tree.jpg"
+      page: "gower_2"
+    -
+      img: "chrisclimbing.jpg"
+      page: "gower_2"
+    -
+      img: "chrisjumpin.jpg"
+      page: "gower_2"
+    -
+      img: "flying_ben.jpg"
+      page: "gower_2"
+    -
+      img: "gower_3.jpg"
+      page: "gower_2"
+    -
+      img: "maddy spring '91.jpg"
+      page: "gower_2"
+    -
+      img: "maddy1.jpg"
+      page: "gower_2"
+    -
+      img: "maddy_wedding.jpg"
+      page: "gower_2"
+    -
+      img: "mat_ben_abi_chris_bikes.jpg"
+      page: "gower_2"
+    -
+      img: "matt_hat.jpg"
+      page: "gower_2"
+    -
+      img: "matt_mad.jpg"
+      page: "gower_2"
+    -
+      img: "matt_mad_82.jpg"
+      page: "gower_2"
+    -
+      img: "wheely6.jpg"
+      page: "gower_2"
