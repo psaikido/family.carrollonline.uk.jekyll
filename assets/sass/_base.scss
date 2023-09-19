@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+*:focus {
+	outline: 2px solid var(--blue);
+}
+
+html {
+	scroll-behavior: smooth;
+} 
+
+body {
+	background-color: var(--bkg-major);
+	font-family: 'Mulish', sans-serif;
+	font-size: 1.3em;
+	letter-spacing: .1em;
+	color: var(--text-major);
+	line-height: 25px;
+	padding: 20px;
+}
+
+a, a:link, a:visited, a:hover {
+	color: var(--text-link);
+	letter-spacing: 2px;
+}
+
+a:hover {
+	color: var(--hilight);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: var(--hilight);
+}

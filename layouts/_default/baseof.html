@@ -1,14 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html class="light">
     {{ partial "head.html" . }}
+
     <body>
+			<div class="grid-wrap">
         {{ partial "header.html" . }}
 				{{ partial "menu.html" . }}
 
-        <div class="main-content">
+        <main class="main-content">
 					{{ block "main" . }}{{ end }}
-        </div>
+        </main>
 
         {{ partial "footer.html" . }}
+
+				<script src="/js/cookie-toggler.js"></script>
+			</div>
     </body>
 </html>

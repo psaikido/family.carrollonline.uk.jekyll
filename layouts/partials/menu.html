@@ -1,25 +1,27 @@
-<ul class="navbar-nav">
-	{{ range .Site.Data.nav.menu }}
-		{{ $item := . }}
+<nav>
+	<ul class="navbar-nav">
+		{{ range .Site.Data.nav.menu }}
+			{{ $item := . }}
 
-		{{ if .sub }}
-				<li class="nav-item parent" onclick="return true">
-					{{ .title }}
+			{{ if .sub }}
+					<li class="nav-item parent">
+						{{ .title }}
 
-					<ul>
-						{{range .sub }}
-							<li class="nav-item">
-								<a href="{{ .url }}" alt="{{ .title }}">
-										{{ .title }}
-								</a>
-							</li>
-						{{ end }}
-					</ul>
+						<ul>
+							{{range .sub }}
+								<li class="nav-item">
+									<a href="{{ .url }}" alt="{{ .title }}">
+											{{ .title }}
+									</a>
+								</li>
+							{{ end }}
+						</ul>
+					</li>
+			{{ else }}
+				<li class="nav-item">
+					<a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
 				</li>
-		{{ else }}
-			<li class="nav-item">
-				<a href="{{ .url }}" alt="{{ .title }}">{{ .title }}</a>
-			</li>
+			{{ end }}
 		{{ end }}
-	{{ end }}
-</ul>
+	</ul>
+</nav>

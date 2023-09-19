@@ -1,0 +1,94 @@
+body {
+	width: 99vw;
+	margin-inline: auto;
+	overflow-x: hidden;
+}
+
+.grid-wrap {
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	margin-inline: auto;
+	grid-gap: 15px;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3, auto);
+	grid-template-areas: 
+	'header'
+	'nav'
+	'main'
+	'footer';
+
+	heading {
+		grid-area: header;
+		width: 100%;
+		margin: 0 auto;
+		font-size: 80%;
+	}
+
+	nav {
+		grid-area: nav;
+	}
+
+	main {
+		grid-area: main;
+	}
+
+	foot {
+		grid-area: footer;
+	}
+
+	@include screen-width('small') {
+		grid-gap: 5px;
+
+		nav {
+			max-width: 200px;
+		}
+
+		main {
+			max-width: 600px;
+		}
+	}
+
+	@include screen-width('medium') {
+		margin: 0 auto;
+		grid-template-rows: auto;
+		grid-template-columns: 
+		minmax(230px, 300px) 
+		minmax(600px, 800px);
+		grid-template-areas: 
+		"header header"
+		"nav main"
+		"footer footer";
+
+		nav {
+			margin-top: 8px;
+		}
+
+		main {
+			max-width: 600px;
+		}
+	}
+
+	@include screen-width('desktop') {
+		heading {
+			grid-area: header;
+		}
+
+		main {
+			margin: 0 auto;
+			width: 100%;
+			max-width: 700px;
+			height: auto;
+			min-height: 84vh;
+			padding-top: 30px;
+			padding-bottom: 10px;
+		}
+
+		footer {
+			grid-area: footer;
+			bottom: 0;
+			width: 100%;
+		}
+	}
+}
+

@@ -56,12 +56,12 @@ But I'll be back another day.
             
 ### <span id="b">Loch Lomond - 1975</span>
 "Oh boatman row me o'er the loch";  
-"I will, I will, when I find me sock". 
+"I will, I will, when I find me sock".  
 "Oh boatman! boatman, hurry do!"   
-"I will, I will, when I find me shoe". 
-!Oh man take heed to my request"  
-"Oh where on earth did I put me vest?" 
-"Oh put your clothes back on the shelf  
+"I will, I will, when I find me shoe".   
+!Oh man take heed to my request"   
+"Oh where on earth did I put me vest?"  
+"Oh put your clothes back on the shelf   
 I'll row the ruddy boat myself" 
             
 
