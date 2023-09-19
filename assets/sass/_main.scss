@@ -23,6 +23,7 @@ heading a {
 main {
 	margin: 10px;
 	max-width: 700px;
+	text-align: left;
 
 	.home {
 		img {
@@ -52,8 +53,10 @@ main {
 		}
 	}
 
-	.divRight {
-		margin: 0 10px 10px 230px;
+	@include screen-width('medium') {
+		.divRight {
+			margin: 0 10px 10px 230px;
+		}
 	}
 
 	img {

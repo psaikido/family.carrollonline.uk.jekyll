@@ -19,3 +19,6 @@ function setTheme(theme) {
     createCookie('theme', theme, 7);
 }
 
+$('#hamburger').on("click", function() {
+	$('ul.navbar-nav').toggle();
+});
