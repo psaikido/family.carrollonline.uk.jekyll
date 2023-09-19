@@ -1,7 +1,7 @@
-.navbar-nav {
+nav ul.navbar-nav {
 	list-style-type: none;
 	float: left;
-	width: 210px;
+	min-width: 210px;
 	font-size: 1.2em;
 
 	#search-term {

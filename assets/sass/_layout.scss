@@ -40,10 +40,6 @@ body {
 	@include screen-width('small') {
 		grid-gap: 5px;
 
-		nav {
-			max-width: 200px;
-		}
-
 		main {
 			max-width: 600px;
 		}
@@ -53,7 +49,7 @@ body {
 		margin: 0 auto;
 		grid-template-rows: auto;
 		grid-template-columns: 
-		minmax(230px, 300px) 
+		minmax(210px, 300px) 
 		minmax(600px, 800px);
 		grid-template-areas: 
 		"header header"
@@ -62,6 +58,7 @@ body {
 
 		nav {
 			margin-top: 8px;
+			border-right: 1px solid var(--border-light);
 		}
 
 		main {
