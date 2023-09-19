@@ -11,6 +11,14 @@
 }
 
 html {
+	--bkg-major: var(--white);
+	--hilight: var(--blue);
+	--border-dark: var(--pink);
+	--border-light: var(--mid-grey);
+	--text-major: var(--black);
+	--text-mute: var(--mid-grey);
+	--text-link: var(--black);
+
 	&.dark {
 		--bkg-major: var(--dark-grey);
 		--hilight: var(--orange);
@@ -19,15 +27,5 @@ html {
 		--text-major: var(--off-white);
 		--text-mute: var(--mid-grey);
 		--text-link: var(--orange);
-	}
-
-	&.light {
-		--bkg-major: var(--white);
-		--hilight: var(--blue);
-		--border-dark: var(--pink);
-		--border-light: var(--mid-grey);
-		--text-major: var(--black);
-		--text-mute: var(--mid-grey);
-		--text-link: var(--black);
 	}
 }
