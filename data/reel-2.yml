@@ -1,0 +1,159 @@
+dir: "/paddy/"
+
+vids:
+  -
+    youtube: "dQlPTrn_hQs"
+    img: "reel-2/01.jpg"
+    page: "reel-2"
+    description: "Peter Carroll's first communion. Paddy is the priest."
+    location: "Nigeria"
+    who: "Brendan et al"
+    date: "1959"
+
+  -
+    youtube: "aqoDMubL98w"
+    img: "reel-2/02.jpg"
+    page: "reel-2"
+    location: "Nigeria"
+    who: "Brendan et al, dead porpoise?"
+    date: "1959"
+
+  -
+    youtube: "Z185ZOi1Ehw"
+    img: "reel-2/03a.jpg"
+    page: "reel-2"
+    description: "#1 Road scenes, village life, fishing and beach footage"
+    location: "Nigeria"
+    who: "Brendan et al"
+    date: "1959"
+
+  -
+    youtube: "xvejatAZCP4"
+    img: "reel-2/03b.jpg"
+    page: "reel-2"
+    description: "#2 Village life, fishing and beach footage"
+    location: "Nigeria"
+    who: "Brendan et al"
+    date: "1959"
+
+  -
+    youtube: "J5eBeRDWU_w"
+    img: "reel-2/03c.jpg"
+    page: "reel-2"
+    description: "#3 Village life, fishing and beach footage"
+    location: "Nigeria"
+    who: "Brendan et al"
+    date: "1959"
+
+  -
+    youtube: "efdV6o_a9Lg"
+    img: "reel-2/04.jpg"
+    page: "reel-2"
+    description: "Brian in his uniform"
+    location: "London"
+    who: "Hilliards"
+    date: "1958/9"
+
+  -
+    youtube: "0i9lLjI-MCs"
+    img: "reel-2/05.jpg"
+    page: "reel-2"
+    description: "Matt nearly walking"
+    who: "Colm, Damian, Matt, Grandma Carroll"
+    date: "1958"
+
+  -
+    youtube: "5jxD9lZije0"
+    img: "reel-2/06.jpg"
+    page: "reel-2"
+    description: "Terry, Effy, Oonagh"
+    who: "Gormleys"
+    date: "1958"
+
+  -
+    youtube: "aZeMseYd_bQ"
+    img: "reel-2/07.jpg"
+    page: "reel-2"
+    description: "Dandy & Grandma at a stately home"
+    who: "Dandy & Grandma"
+    date: "1959"
+
+  -
+    youtube: "9VefPhy9-Qg"
+    img: "reel-2/08.jpg"
+    page: "reel-2"
+    description: "Matt still nearly walking"
+    who: "Colm, Margaret, Damian, Matt, Grandma"
+    date: "1958/9"
+
+  -
+    youtube: "4SdU9Ds3plw"
+    img: "reel-2/09.jpg"
+    page: "reel-2"
+    description: "The Grace & Hilliard family with Dandy & Grandma"
+    location: "Edgehill Road"
+    date: "1959"
+
+  -
+    youtube: "bjBGIdNu4TI"
+    img: "reel-2/10a.jpg"
+    page: "reel-2"
+    description: "Colm et al with the Graces at a beach and a park."
+    who: "Colm et al, Graces, Gormleys, Dandy & Grandma"
+    date: "1959"
+
+  -
+    youtube: "aGriQodRDDc"
+    img: "reel-2/10b.jpg"
+    page: "reel-2"
+    description: "Garden party at Edgehill Rd"
+    who: "Colm et al, Graces, Gormleys, Dandy & Grandma"
+    date: "1959"
+
+  -
+    youtube: "YFzrW-Ns9Co"
+    img: "reel-2/11.jpg"
+    page: "reel-2"
+    description: "Graces play cricket"
+    date: "1959"
+
+  -
+    youtube: "Y6Eiupzesqg"
+    img: "reel-2/12.jpg"
+    page: "reel-2"
+    description: "Matt walks!"
+    location: "Edgehill Road"
+    who: "Margaret, Matt, Trac & Peter(?)"
+    date: "1959"
+
+  -
+    youtube: "ndDDjqEAE8c"
+    img: "reel-2/13.jpg"
+    page: "reel-2"
+    description: "Graces at the beach"
+    date: "1961?"
+
+  -
+    youtube: "0ge3p6vtOl4"
+    img: "reel-2/14a.jpg"
+    page: "reel-2"
+    description: "Paddy playing cricket."
+    location: "Nigeria"
+    who: "Paddy"
+    date: "1959"
+
+  -
+    youtube: "VpVhxvsvEVY"
+    img: "reel-2/14b.jpg"
+    page: "reel-2"
+    description: "A zoo."
+    location: "UK"
+    who: "Colm et al. Grandma Burke"
+    date: "1959"
+
+  -
+    youtube: "-COSsVA_w2k"
+    img: "reel-2/15.jpg"
+    page: "reel-2"
+    description: "Rowing boat trip with Terry, Trac, Effy & Peter. Ba before she became a nun with Grandma"
+    date: "1961"

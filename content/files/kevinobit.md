@@ -3,7 +3,7 @@ title: Fr Kevin Carroll's Obituary
 layout: default
 ---
 
-[![Kevin](../pages/album/thms/thm_k.jpg)](/pages/album/k.jpg)
+![Kevin](/galleries/album/thms/thm_k.jpg)
 
 [SMA Fathers website](https://sma.ie/kevin-carroll-collection/)  
 [Conference on African Art](https://smafathers.org/museum/the-kevin-carroll-conference-on-african-christian-art/)  
@@ -74,4 +74,4 @@ someone moreover whose scholarship and artistic vision had embellished their
 lives and made their churches part of a cultural continuum.
 
 
-<img src="kevin/linda-7.jpg">
+![linda-7](/files/kevin/linda-7.jpg)
